@@ -1,0 +1,13 @@
+2017-03-26 16:52:27,502 - Testloger -INFO -test info
+2017-03-26 16:52:27,503 - Testloger -WARNING -test warning
+2017-03-26 16:56:03,436 - Testloger -INFO -test info
+2017-03-26 16:56:03,436 - Testloger -DEBUG -test debug
+2017-03-26 16:56:03,436 - Testloger -WARNING -test warning
+2017-03-26 17:00:25,016 - Testloger -INFO -test info
+2017-03-26 17:00:25,017 - Testloger -DEBUG -test debug
+2017-03-26 17:00:25,017 - Testloger -WARNING -test warning
+2017-03-26 17:00:25,017 - Testloger -ERROR -test error
+2017-03-26 17:03:53,201 - Testloger -testlog.py[line:6]-INFO -test info
+2017-03-26 17:03:53,202 - Testloger -testlog.py[line:7]-DEBUG -test debug
+2017-03-26 17:03:53,202 - Testloger -testlog.py[line:8]-WARNING -test warning
+2017-03-26 17:03:53,202 - Testloger -testlog.py[line:9]-ERROR -test error

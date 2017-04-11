@@ -1,0 +1,23 @@
+2017-03-27 15:56:31,126 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
+2017-03-27 15:58:56,446 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
+2017-03-27 15:59:02,694 - MainServerloger -MServer.py[line:23]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 41564) : connect successfully!
+2017-03-27 15:59:11,221 - MainServerloger -datahandle.py[line:50]-INFO -callback is 1
+2017-03-27 15:59:11,222 - MainServerloger -datahandle.py[line:71]-ERROR -[Failure instance: Traceback: <class 'NameError'>: name 'Mglobal' is not defined
+/usr/lib/python3.4/threading.py:920:_bootstrap_inner
+/usr/lib/python3.4/threading.py:868:run
+/usr/local/lib/python3.4/dist-packages/twisted/_threads/_threadworker.py:46:work
+/usr/local/lib/python3.4/dist-packages/twisted/_threads/_team.py:190:doWork
+--- <exception caught here> ---
+/usr/local/lib/python3.4/dist-packages/twisted/python/threadpool.py:246:inContext
+/usr/local/lib/python3.4/dist-packages/twisted/python/threadpool.py:262:<lambda>
+/usr/local/lib/python3.4/dist-packages/twisted/python/context.py:118:callWithContext
+/usr/local/lib/python3.4/dist-packages/twisted/python/context.py:81:callWithContext
+/home/songhaolin/PycharmProjects/TCPServerWithTwisted/src/datahandle.py:52:action
+]
+2017-03-27 16:00:33,032 - MainServerloger -MServer.py[line:28]-INFO -a connection lost
+2017-03-27 16:00:38,655 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
+2017-03-27 16:00:40,022 - MainServerloger -MServer.py[line:23]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 41576) : connect successfully!
+2017-03-27 16:00:45,446 - MainServerloger -datahandle.py[line:51]-INFO -callback is 1
+2017-03-27 16:00:45,451 - MainServerloger -datahandle.py[line:57]-INFO -data insert ok!
+2017-03-27 16:01:04,067 - MainServerloger -MServer.py[line:28]-INFO -a connection lost
+2017-03-27 16:01:05,223 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
