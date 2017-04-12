@@ -9,17 +9,17 @@ class MLoger():
         fh = logging.FileHandler(filelogname)
         fh.setLevel(logging.DEBUG)
 
-        ch = logging.StreamHandler()
-        ch.setLevel(logging.DEBUG)
+      #  ch = logging.StreamHandler()
+      #  ch.setLevel(logging.DEBUG)
 
         formatter = logging.Formatter('%(asctime)s - %(name)s -%(filename)s[line:%(lineno)d]'
                                       '-%(levelname)s -%(message)s')
 
         fh.setFormatter(formatter)
-        ch.setFormatter(formatter)
+      #  ch.setFormatter(formatter)
 
         self.logger.addHandler(fh)
-        self.logger.addHandler(ch)
+      #  self.logger.addHandler(ch)
 
     def info(self,data):
         print(data)

@@ -46,6 +46,6 @@ class TSClntFactory(protocol.ClientFactory):
 
 
 
-
-reactor.connectTCP(HOST, PORT, TSClntFactory())
-reactor.run()
+if __name__=='__main__':
+      reactor.connectTCP(HOST, PORT, TSClntFactory())
+      reactor.run()

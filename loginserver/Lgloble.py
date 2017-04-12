@@ -1,2 +1,4 @@
+from lib.log import MLoger
+from loginserver.config import logername,filelogname
 
-global Lloger
+Lloger = MLoger(logername,filelogname)

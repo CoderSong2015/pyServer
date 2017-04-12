@@ -2,7 +2,7 @@ mysql_conf = ['root','123456','localhost','test']
 
 handleObj = {'login'}
 
-logername = 'Loginlog'
+logername = "Loginlog"
 
 filelogname = 'Loginlog.log'
 

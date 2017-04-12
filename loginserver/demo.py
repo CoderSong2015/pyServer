@@ -106,6 +106,7 @@ class Myhttpserver(BaseHTTPRequestHandler):
 class ThreadingHttpServer(ThreadingMixIn, HTTPServer ):
     pass
 
-myserver = ThreadingHttpServer((hostname,hostport),Myhttpserver)
+if __name__=='__main__':
+     myserver = ThreadingHttpServer((hostname,hostport),Myhttpserver)
 
-myserver.serve_forever()
+     myserver.serve_forever()
