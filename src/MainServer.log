@@ -21,3 +21,6 @@
 2017-03-27 16:00:45,451 - MainServerloger -datahandle.py[line:57]-INFO -data insert ok!
 2017-03-27 16:01:04,067 - MainServerloger -MServer.py[line:28]-INFO -a connection lost
 2017-03-27 16:01:05,223 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
+2017-04-12 10:42:23,489 - MainServerloger -MServer.py[line:81]-INFO -reactor start...ok!
+2017-04-12 10:43:52,370 - MainServerloger -MServer.py[line:23]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55657) : connect successfully!
+2017-04-12 10:44:08,473 - MainServerloger -MServer.py[line:28]-INFO -a connection lost

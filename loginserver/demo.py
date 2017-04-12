@@ -1,15 +1,10 @@
 from http.server import BaseHTTPRequestHandler,HTTPServer
-import requests
-import time
-import threading
 from lib.sql_operator import sql_operate
-
 from loginserver.Header import Define
 from  loginserver.config import handleObj
 from  loginserver.config import mysql_conf
 from socketserver import ThreadingMixIn
-hostname = "localhost"
-hostport = 9001
+from loginserver.config import hostname,hostport
 
 
 class handleThread():
@@ -43,13 +38,16 @@ class handleThread():
 
 
     def handleLogin(self,se,kv):
-        sqls = "select * from user where usrname = \'%s\' && passwd = \'%s\'" % (kv['account'], kv['passwd'])
+        sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv['account'], kv['passwd'])
 
         re = self.Obj_mysql._query(sqls)
         if(re == False):
             return Define['ERRORSQL']
         if(re[0] == None):
-            print("None")
+            se.send_response(200)
+            se.send_header("Content-type", "src")
+            se.end_headers()
+            se.wfile.write(bytes("wrong", "utf-8"))
         else:
             print(re)
             se.send_response(200)
