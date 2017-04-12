@@ -49,7 +49,7 @@ class RSAencrypt():
         self.pubkey,self.prikey = rsa.newkeys(bit,poolsize)
 
     def getpubkey(self):
-        return self.pubkey
+        return self.pubkey.save_pkcs1()
 
     def getprikey(self):
         return self.prikey

@@ -44,7 +44,7 @@ class handleThread():
         self.se.send_response(200)
         self.se.send_header("Content-type", "pubkey")
         self.se.end_headers()
-        self.se.wfile.write(bytes(Loginkey.getpubkey(),"utf-8"))
+        self.se.wfile.write((Loginkey.getpubkey(),"utf-8"))
 
     def handleLogin(self,se,kv):
         sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv['account'], kv['passwd'])
