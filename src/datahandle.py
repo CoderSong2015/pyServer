@@ -2,7 +2,7 @@ from twisted.internet import threads
 from lib import baseHandle
 from src.Mglobal import Qmysql
 from src.Mglobal import UsrLoginStatue
-from lib.log import logger
+from src.Mglobal import Mloger
 from src import Mglobal
 class identificationHandle(baseHandle.baseDataHandle):
 
@@ -48,16 +48,16 @@ class dataHandle(baseHandle.baseDataHandle):
     def action(self, data):
         self.call_back.write('data recieved'.encode())
         conn = Qmysql.get()
-        logger.info('callback is %s'%UsrLoginStatue[self.call_back])
+        Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
 
         insertdata = 'insert into data(id,data,time) values(%d,\'%s\',\'%s\''')'%(UsrLoginStatue[self.call_back],data.decode(),Mglobal.Systime.Datatime)
         ans = conn._insert(insertdata)
 
         if ans == 0:
-            logger.info("data insert ok!")
+            Mloger.info("data insert ok!")
             return ans
         else:
-            logger.error('insert wrong')
+            Mloger.error('insert wrong')
             return '0'
 
 
@@ -69,7 +69,7 @@ class dataHandle(baseHandle.baseDataHandle):
         d.addErrback(self.err)
 
     def err(self, failure):
-        logger.error(failure)
+        Mloger.error(failure)
 
 class dataSaveHandle(baseHandle.baseDataHandle):
     def __init__(self,info,data):

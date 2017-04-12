@@ -3,7 +3,7 @@ import os
 
 from twisted.internet.protocol import  ServerFactory,ProcessProtocol
 from twisted.protocols.basic import LineReceiver
-from lib.log import logger
+from src.Mglobal import Mloger
 from twisted.internet import reactor
 from src import datahandle as dt
 import struct
@@ -20,12 +20,12 @@ class MProtocol(LineReceiver):
             self.transport.loseConnection()
         else:
 
-            logger.info('ip:%s : connect successfully!'%(ipinfo))
+            Mloger.info('ip:%s : connect successfully!'%(ipinfo))
         Mglobal.UsrLoginStatue[self.transport] = 1
 
 
     def connectionLost(self, reason):
-        logger.info('a connection lost')
+        Mloger.info('a connection lost')
 
     #you need to encode databuf before you send them,and decode them before you use those you have recived.
     #In python,the type  str is different from the type byte.
@@ -78,7 +78,7 @@ class MFactory(ServerFactory):
     def __init__(self,max_client):
         self.max_client = max_client
         self.clients = []
-        logger.info('reactor start...ok!')
+        Mloger.info('reactor start...ok!')
 
 
 if __name__=='__main__':

@@ -1,7 +1,8 @@
 from src import mysqlqueue
 from src import config
 from src.MTime import mTime
-from lib.log import logger
+from src.config import logername,filelogname
+from lib.log import MLoger
 #here store the all globla variable
 
 #the mysql queue,store the all sql handle
@@ -15,7 +16,5 @@ UsrLoginStatue = {}
 
 Systime = mTime()
 
-def exitinit(Ierror):
-    logger.info(Ierror)
-    logger.info("exitinit...")
-    pass
+Mloger = MLoger(logername,filelogname)
+
