@@ -13,5 +13,5 @@ Config_mysql_connect = [
 mysqlHandleNumber = 5
 mysqlMaxHandle = 10
 
-logername = 'MainServerlog'
-filelogname ='MainServer.log'
+logername = 'Mainserverlog'
+filelogname ='Mainserver.log'

@@ -1,11 +1,11 @@
 from http.server import BaseHTTPRequestHandler,HTTPServer
 from lib.sql_operator import sql_operate
 from loginserver.Header import Define
-from  loginserver.config import handleObj
-from  loginserver.config import mysql_conf
+from loginserver.Lconfig import handleObj
+from loginserver.Lconfig import mysql_conf
 from socketserver import ThreadingMixIn
-from loginserver.config import hostname,hostport
-
+from loginserver.Lconfig import hostname,hostport
+from loginserver.Lgloble import Loginkey
 
 class handleThread():
     def __init__(self,arg):
@@ -27,6 +27,7 @@ class handleThread():
 
     def handleObj(self,se,kv):
 
+        print(kv)
         if kv['type'] not in handleObj:
             return Define['ERRORTYPE']
 
@@ -36,6 +37,14 @@ class handleThread():
 
             return self.handleLogin(se,kv)
 
+        if kv['type'] == 'pubkey':
+            return self.returnPubkey(se,kv)
+
+    def returnPubkey(self,se,kv):
+        self.se.send_response(200)
+        self.se.send_header("Content-type", "pubkey")
+        self.se.end_headers()
+        self.se.wfile.write(bytes(Loginkey.getpubkey(),"utf-8"))
 
     def handleLogin(self,se,kv):
         sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv['account'], kv['passwd'])
@@ -56,6 +65,7 @@ class handleThread():
             se.wfile.write(bytes("hello", "utf-8"))
 
     def handleUrl(self,se):
+         print(se.path)
          if '?' in se.path:
               para = se.path.split('?')[1]
 

@@ -1,3 +1,8 @@
 2017-04-12 13:37:56,639 - MainServerlog -log.py[line:26]-INFO -reactor start...ok!
 2017-04-12 13:38:07,701 - MainServerlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 51704) : connect successfully!
 2017-04-12 13:38:52,523 - MainServerlog -log.py[line:26]-INFO -a connection lost
+2017-04-12 14:17:38,303 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-04-12 14:17:44,661 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 52556) : connect successfully!
+2017-04-12 14:17:55,296 - Mainserverlog -log.py[line:26]-INFO -a connection lost
+2017-04-12 14:17:56,335 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 52562) : connect successfully!
+2017-04-12 14:17:56,864 - Mainserverlog -log.py[line:26]-INFO -a connection lost

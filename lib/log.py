@@ -53,3 +53,5 @@ logger.addHandler(ch)
 #logger.addHandler(ch2)
 #logger.addHandler(ch3)
 '''
+if __name__=='__main__':
+    pass

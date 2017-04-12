@@ -1,6 +1,6 @@
 import struct
 from src import Mglobal
-
+import rsa
 class Bencrypt():
 
 
@@ -39,3 +39,23 @@ class Bencrypt():
 
     def encrypt_u(self,encryptFun,data):
         pass
+
+
+class RSAencrypt():
+    def __init__(self):
+        pass
+
+    def generateKey(self,bit = 512,poolsize = 1):
+        self.pubkey,self.prikey = rsa.newkeys(bit,poolsize)
+
+    def getpubkey(self):
+        return self.pubkey
+
+    def getprikey(self):
+        return self.prikey
+
+    def encry(self,data):
+        return rsa.encrypt(data,self.pubkey)
+
+    def decry(self,data):
+        return rsa.decrypt(data,self.prikey)

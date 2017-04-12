@@ -1,13 +1,16 @@
 
 from loginserver.Lgloble import Lloger
-from lib.log import MLoger
-from loginserver.demo import ThreadingHttpServer,Myhttpserver,hostport,hostname
+from loginserver.Lgloble import Loginkey
+from loginserver.loginServer import ThreadingHttpServer,Myhttpserver,hostport,hostname
 
 def main():
     print("xx")
 
     Lloger.info("init server...")
+    Loginkey.generateKey()
+    Lloger.info("generate rsa key..ok!")
     myserver = ThreadingHttpServer((hostname, hostport), Myhttpserver)
+
     Lloger.info("init ok..host = %s:%d "%(hostname,hostport))
     Lloger.info("login server start ok..!")
     myserver.serve_forever()
