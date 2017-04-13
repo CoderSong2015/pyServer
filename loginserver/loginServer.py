@@ -40,11 +40,13 @@ class handleThread():
         if kv['type'] == 'pubkey':
             return self.returnPubkey(se,kv)
 
+
+
     def returnPubkey(self,se,kv):
         self.se.send_response(200)
         self.se.send_header("Content-type", "pubkey")
         self.se.end_headers()
-        self.se.wfile.write((Loginkey.getpubkey(),"utf-8"))
+        self.se.wfile.write(Loginkey.getpubkey())
 
     def handleLogin(self,se,kv):
         sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv['account'], kv['passwd'])
@@ -110,7 +112,15 @@ class Myhttpserver(BaseHTTPRequestHandler):
 
 
     def do_POST(self):
-        pass
+        print("do read...")
+        head = self.headers
+        print(head)
+        length = head['Content-Length']
+        print(length)
+        nbytes = int(length)
+        data = self.rfile.read(nbytes)
+        print(Loginkey.decry(data))
+
 
 
 class ThreadingHttpServer(ThreadingMixIn, HTTPServer ):

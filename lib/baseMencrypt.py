@@ -59,3 +59,6 @@ class RSAencrypt():
 
     def decry(self,data):
         return rsa.decrypt(data,self.prikey)
+
+    def loadkey(self,key,tformat = 'PEM'):
+        self.pubkey = rsa.PublicKey.load_pkcs1(key,tformat)
