@@ -24,7 +24,7 @@ class mysql_queue(basequeue.ConcurrentQueue):
             self.__cond.notify()
             self.__cond.release()
 
-    def get(self):
+    def get(self) -> object:
         if self.__cond.acquire():  # 获取互斥锁和条件变量，python中threading条件变量默认包含互斥量，因此只需要获取条件变量即可
             while self.__queue.empty():
                 self.__cond.wait()  # 条件变量等待

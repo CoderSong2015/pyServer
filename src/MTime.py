@@ -1,5 +1,5 @@
 import time
-
+import datetime
 class mTime:
     def __init__(self):
         self.time = self.__getNowtime()
@@ -14,11 +14,16 @@ class mTime:
     def Datatime(self):
         return self.__getDatatime()
 
+    def getmysqltime(self):
+        return self.__gettime()
+
     def __getData(self):
         return time.strftime('%Y-%m-%d', time.localtime(time.time()))
 
     def __getDatatime(self):
-        return time.strftime('%Y-%m-%d,%H-%M-%S', time.localtime(time.time()))
+        return time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
 
     def __getNowtime(self):
         return time.strftime('%H-%M-%S', time.localtime(time.time()))
+    def __gettime(self):
+        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")

@@ -50,14 +50,16 @@ class dataHandle(baseHandle.baseDataHandle):
         conn = Qmysql.get()
         Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
 
-        insertdata = 'insert into data(id,data,time) values(%d,\'%s\',\'%s\''')'%(UsrLoginStatue[self.call_back],data.decode(),Mglobal.Systime.Datatime)
+        insertdata = 'insert into message(uid,message,data) values(%d,\'%s\',\'%s\''')'%(UsrLoginStatue[self.call_back],data.decode(),Mglobal.Systime.getmysqltime())
+        print(insertdata)
         ans = conn._insert(insertdata)
 
-        if ans == 0:
+        if (type(ans) is int) and (ans == 0):
             Mloger.info("data insert ok!")
+            Qmysql.put(conn)
             return ans
         else:
-            Mloger.error('insert wrong')
+            Mloger.error('insert wrong!')
             return '0'
 
 

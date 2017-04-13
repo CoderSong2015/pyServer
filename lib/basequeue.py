@@ -9,7 +9,7 @@ class ConcurrentQueue:
         self.__cond  = threading.Condition(self.__mutex)    #初始化条件变量
         self.__queue = queue.Queue()        #初始化队列
 
-    def get(self):
+    def get(self) -> object:
         if  self.__cond.acquire():          #获取互斥锁和条件变量，python中threading条件变量默认包含互斥量，因此只需要获取条件变量即可
             while self.__queue.empty():
                 self.__cond.wait()          #条件变量等待

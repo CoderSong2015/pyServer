@@ -11,3 +11,6 @@ def Minit():
     for i in range (config.mysqlHandleNumber):
         p = sql_operator.sql_operate(config.Config_mysql_connect)
         Mglobal.Qmysql.put(p)
+
+if __name__=='__main__':
+    pass

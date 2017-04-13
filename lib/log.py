@@ -31,6 +31,9 @@ class MLoger():
     def warning(self,data):
         self.logger.warning(data)
 
+    def error(self,data):
+        self.logger.error(data)
+
 '''
 logger = logging.getLogger('MainServerloger')
 logger.setLevel(logging.DEBUG)
