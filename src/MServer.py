@@ -65,11 +65,12 @@ class MProtocol(LineReceiver):
         if command_id == 0:
             han = dt.identificationHandle(rdata,self.transport)
             han.handle()
-        else:
+        if command_id == 1:
             testh = dt.dataHandle(rdata,self.transport)
             testh.handle()
 
-
+    def decryptdata(self,data):
+        pass
 
 class MFactory(ServerFactory):
 
