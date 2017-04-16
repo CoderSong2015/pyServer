@@ -25,7 +25,7 @@ class MProtocol(LineReceiver):
 
 
     def connectionLost(self, reason):
-        Mloger.info('a connection lost')
+        Mloger.info('ip:%s : lost connect'%self.transport.getPeer())
 
     #you need to encode databuf before you send them,and decode them before you use those you have recived.
     #In python,the type  str is different from the type byte.

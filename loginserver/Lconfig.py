@@ -8,3 +8,6 @@ filelogname = 'Loginlog.log'
 
 hostname = "localhost"
 hostport = 9004
+
+Mainhostname = 'localhost'
+Mainhostpost = 8889
