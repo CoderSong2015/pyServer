@@ -46,7 +46,11 @@ class TSClntFactory(protocol.ClientFactory):
           lambda self, connector, reason: reactor.stop()
 
 
-
-if __name__=='__main__':
+def connectMainserver():
       reactor.connectTCP(Mainhostname, Mainhostname, TSClntFactory())
       reactor.run()
+
+if __name__=='__main__':
+      pass
+      #reactor.connectTCP(Mainhostname, Mainhostname, TSClntFactory())
+      #reactor.run()
