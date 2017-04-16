@@ -68,9 +68,11 @@ class MProtocol(LineReceiver):
         if command_id == 1:
             testh = dt.dataHandle(rdata,self.transport)
             testh.handle()
+        if command_id == 2:
+            self.decryptdata(rdata)
 
     def decryptdata(self,data):
-        pass
+        print(data)
 
 class MFactory(ServerFactory):
 

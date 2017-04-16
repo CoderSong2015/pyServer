@@ -1,6 +1,7 @@
 from twisted.internet import protocol, reactor
 import struct
 from loginserver.Lconfig import Mainhostname,Mainhostpost
+from loginserver.Lgloble import Loginkey
 HOST='127.0.0.1'
 PORT= 8889
 
@@ -18,12 +19,13 @@ class dataConvert():
         value = [length,command_id]
         header = struct.pack('!2I',*value)
 
-        return header + data.encode()
+        return header + data
 class TSClntProtocol(protocol.Protocol):
 
       p = dataConvert()
 
       def sendData(self):
+           """
            data = input('> ')
            if data:
                #print('...sending %s...')%(data)
@@ -31,9 +33,14 @@ class TSClntProtocol(protocol.Protocol):
                self.transport.write(da)
            else:
                self.transport.loseConnection()
-
+           """
+           pubk = Loginkey.getpubkey()
+           prik = Loginkey.getprikey()
+           da = self.p.addHeader(pubk,2)
+           self.transport.write(da)
 
       def connectionMade(self):
+            Loginkey.generateKey()
             self.sendData()
 
       def dataReceived(self, data):
@@ -47,10 +54,10 @@ class TSClntFactory(protocol.ClientFactory):
 
 
 def connectMainserver():
-      reactor.connectTCP(Mainhostname, Mainhostname, TSClntFactory())
+      reactor.connectTCP(Mainhostname, Mainhostpost, TSClntFactory())
       reactor.run()
 
 if __name__=='__main__':
-      pass
-      #reactor.connectTCP(Mainhostname, Mainhostname, TSClntFactory())
-      #reactor.run()
+       connectMainserver()
+      #reactor.connectTCP(Mainhostname, Mainhostpost, TSClntFactory())
+     # reactor.run()

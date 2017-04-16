@@ -52,7 +52,7 @@ class RSAencrypt():
         return self.pubkey.save_pkcs1()
 
     def getprikey(self):
-        return self.prikey
+        return self.prikey.save_pkcs1()
 
     def encry(self,data):
         return rsa.encrypt(data,self.pubkey)

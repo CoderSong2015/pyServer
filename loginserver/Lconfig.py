@@ -9,5 +9,5 @@ filelogname = 'Loginlog.log'
 hostname = "localhost"
 hostport = 9004
 
-Mainhostname = 'localhost'
+Mainhostname = '127.0.0.1'
 Mainhostpost = 8889
