@@ -8,6 +8,7 @@ from twisted.internet import reactor
 from src import datahandle as dt
 import struct
 from src import Mglobal
+from src.Mglobal import RKey
 class MProtocol(LineReceiver):
 
     delimiter = '\n'
@@ -70,6 +71,10 @@ class MProtocol(LineReceiver):
             testh.handle()
         if command_id == 2:
             self.decryptdata(rdata)
+            RKey.loadPubkey(rdata)
+        if command_id == 3:
+            self.decryptdata(rdata)
+            RKey.loadPrikey(rdata)
 
     def decryptdata(self,data):
         print(data)

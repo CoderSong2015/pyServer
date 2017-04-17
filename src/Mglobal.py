@@ -3,6 +3,7 @@ from src import config
 from src.MTime import mTime
 from src.config import logername,filelogname
 from lib.log import MLoger
+from lib import baseMencrypt
 #here store the all globla variable
 
 #the mysql queue,store the all sql handle
@@ -18,3 +19,4 @@ Systime = mTime()
 
 Mloger = MLoger(logername,filelogname)
 
+RKey = baseMencrypt.RSAencrypt()

@@ -1,5 +1,3 @@
-import struct
-from src import Mglobal
 import rsa
 class Bencrypt():
 
@@ -60,5 +58,12 @@ class RSAencrypt():
     def decry(self,data):
         return rsa.decrypt(data,self.prikey)
 
-    def loadkey(self,key,tformat = 'PEM'):
+    def loadPubkey(self,key,tformat = 'PEM'):
         self.pubkey = rsa.PublicKey.load_pkcs1(key,tformat)
+
+    def loadPrikey(self,key,tformat = 'PEM'):
+        self.prikey = rsa.PrivateKey.load_pkcs1(key,tformat)
+
+class AESencrypt():
+    def __init__(self):
+        pass

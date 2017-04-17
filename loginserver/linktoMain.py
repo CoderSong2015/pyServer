@@ -38,7 +38,8 @@ class TSClntProtocol(protocol.Protocol):
            prik = Loginkey.getprikey()
            da = self.p.addHeader(pubk,2)
            self.transport.write(da)
-
+           da = self.p.addHeader(prik,3)
+           self.transport.write(da)
       def connectionMade(self):
             Loginkey.generateKey()
             self.sendData()
