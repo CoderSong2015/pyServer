@@ -1,6 +1,6 @@
 import time
 
 
-a = 1
+a = 112345
 
 print(type(a) is int)
