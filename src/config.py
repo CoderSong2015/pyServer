@@ -1,7 +1,7 @@
 
 Config_mysql = {}
 Config_mysql['mysqlname'] = 'root'
-Config_mysql['mysqlpasswd'] = ''
+Config_mysql['mysqlpasswd'] = '123456'
 Config_mysql['mysqlurl'] = 'localhost'
 Config_mysql['mysqldatabase'] = 'test'
 Config_mysql_connect = [

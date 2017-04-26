@@ -103,6 +103,14 @@ def handleUrl(se):
         se.wfile.write(bytes("None", "utf-8"))
 
 """
+class Posthandle():
+    def __init__(self,arg):
+        self.se = arg
+        self.Obj_mysql = sql_operate(mysql_conf)
+
+    def run(self):
+        pass
+
 class Myhttpserver(BaseHTTPRequestHandler):
     def do_GET(self):
         #handleUrl(self)
@@ -119,7 +127,11 @@ class Myhttpserver(BaseHTTPRequestHandler):
         print(length)
         nbytes = int(length)
         data = self.rfile.read(nbytes)
-        print(Loginkey.decry(data))
+        clientdata = Loginkey.decry(data)
+        print(clientdata)
+        t = handleThread(self,clientdata)
+        t.run()
+
 
 
 

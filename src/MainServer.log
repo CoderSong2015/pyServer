@@ -112,3 +112,15 @@
 2017-04-17 22:51:12,705 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 22144) : connect successfully!
 2017-04-17 22:52:38,246 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
 2017-04-17 22:52:40,084 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 22173) : connect successfully!
+2017-04-23 20:25:25,793 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-04-23 20:25:48,706 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-04-23 20:26:40,496 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-04-23 20:26:43,460 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55391) : connect successfully!
+2017-04-23 20:26:48,311 - Mainserverlog -log.py[line:26]-INFO -callback is 1
+2017-04-23 20:26:48,311 - Mainserverlog -log.py[line:35]-ERROR -insert wrong!
+2017-04-23 20:29:16,262 - Mainserverlog -log.py[line:26]-INFO -callback is 1
+2017-04-23 20:29:16,262 - Mainserverlog -log.py[line:35]-ERROR -insert wrong!
+2017-04-23 20:30:21,144 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-04-23 20:30:44,395 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55411) : connect successfully!
+2017-04-23 20:30:47,203 - Mainserverlog -log.py[line:26]-INFO -callback is 1
+2017-04-23 20:30:47,390 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
