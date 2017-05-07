@@ -5,8 +5,8 @@ requests.adapters.DEFAULT_RETRIES = 5
 
 
 cry = RSAencrypt()
-#r = requests.get('http://localhost:9004?type=login&account=hao&passwd=123')
-r = requests.get('http://localhost:9004?type=pubkey')
+#r = requests.get('http://1:9004?type=login&account=hao&passwd=123')
+r = requests.get('http://192.168.191.1:9004?type=pubkey')
 print(r.text)
 pub = cry.loadPubkey(r.text)
 txt = "song:123".encode()
@@ -27,3 +27,4 @@ print(r.text)
 dd = {'dataaa':'song'}
 leng = '%d'%len(dd)
 r = requests.post('http://localhost:9004',data = ret)
+print(r.text)

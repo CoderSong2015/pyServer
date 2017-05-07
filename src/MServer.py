@@ -33,6 +33,7 @@ class MProtocol(LineReceiver):
 
 
     def dataReceived(self, package):
+        print(package.decode())
         self.databuf += package
 
         while True:

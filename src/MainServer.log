@@ -124,3 +124,32 @@
 2017-04-23 20:30:44,395 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55411) : connect successfully!
 2017-04-23 20:30:47,203 - Mainserverlog -log.py[line:26]-INFO -callback is 1
 2017-04-23 20:30:47,390 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-03 12:10:33,965 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-03 12:12:10,230 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 38621) : connect successfully!
+2017-05-03 12:12:22,906 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 38621) : lost connect
+2017-05-03 16:17:41,292 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-03 16:19:59,564 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 52829) : connect successfully!
+2017-05-03 16:20:53,198 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 52829) : lost connect
+2017-05-06 11:32:03,227 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-06 11:32:10,053 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 3340) : connect successfully!
+2017-05-06 11:32:15,912 - Mainserverlog -log.py[line:26]-INFO -callback is 1
+2017-05-06 11:32:15,978 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-06 11:32:37,546 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 3340) : lost connect
+2017-05-06 11:32:39,493 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 3343) : connect successfully!
+2017-05-06 11:32:41,798 - Mainserverlog -log.py[line:26]-INFO -callback is 1
+2017-05-06 11:32:41,861 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-06 13:13:33,529 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-06 13:14:32,673 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45742) : connect successfully!
+2017-05-06 13:14:46,624 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45742) : lost connect
+2017-05-06 13:16:02,199 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45743) : connect successfully!
+2017-05-06 13:16:04,165 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45743) : lost connect
+2017-05-06 13:19:08,631 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45744) : connect successfully!
+2017-05-06 13:19:17,358 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45744) : lost connect
+2017-05-06 13:20:55,381 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45745) : connect successfully!
+2017-05-06 13:21:01,989 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45745) : lost connect
+2017-05-06 13:29:36,058 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-06 13:29:42,179 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45746) : connect successfully!
+2017-05-06 13:29:46,616 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.3', 45746) : lost connect
+2017-05-07 13:21:15,884 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-07 13:21:25,024 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.2', 42691) : connect successfully!
+2017-05-07 13:21:27,458 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.2', 42691) : lost connect

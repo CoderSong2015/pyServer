@@ -83,6 +83,43 @@ class handleThread():
               se.end_headers()
               se.wfile.write(bytes("None", "utf-8"))
               return (Define['ERRORURL'],None)
+
+class handleThread_Post:
+    def __init__(self,arg,data):
+        #super(handleThread, self).__init__()
+        self.se = arg
+        self.data = data
+        self.Obj_mysql = sql_operate(mysql_conf)
+    def run(self):
+        kv = self.handleDATA(self.data)
+        self.checkaccount(kv)
+
+    def checkaccount(self,kv):
+        sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv[0], kv[1])
+
+        re = self.Obj_mysql._query(sqls)
+
+        print(re)
+        if(re == False):
+            return Define['ERRORSQL']
+        if(re[0] == None):
+            self.se.send_response(200)
+            self.se.send_header("Content-type", "src")
+            self.se.end_headers()
+            self.se.wfile.write(bytes("wrong", "utf-8"))
+        else:
+            print(re)
+            self.se.send_response(200)
+            self.se.send_header("Content-type", "src")
+            self.se.end_headers()
+            self.se.wfile.write(bytes("hello", "utf-8"))
+
+    def handleDATA(self,data):
+        kv = data.split(':')
+        print(kv)
+        return kv
+
+
 """
 def handleUrl(se):
     if '?' in se.path:
@@ -114,7 +151,7 @@ class Posthandle():
 class Myhttpserver(BaseHTTPRequestHandler):
     def do_GET(self):
         #handleUrl(self)
-        #print(self.path)
+        print(self)
         t = handleThread(self)
         t.run()
 
@@ -129,7 +166,7 @@ class Myhttpserver(BaseHTTPRequestHandler):
         data = self.rfile.read(nbytes)
         clientdata = Loginkey.decry(data)
         print(clientdata)
-        t = handleThread(self,clientdata)
+        t = handleThread_Post(self,clientdata.decode())
         t.run()
 
 
