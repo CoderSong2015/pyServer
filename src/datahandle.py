@@ -4,6 +4,7 @@ from src.Mglobal import Qmysql
 from src.Mglobal import UsrLoginStatue
 from src.Mglobal import Mloger
 from src import Mglobal
+from src.Mglobal import Define
 class identificationHandle(baseHandle.baseDataHandle):
 
     def __init__(self,data,call_back):
@@ -48,7 +49,7 @@ class dataHandle(baseHandle.baseDataHandle):
     def action(self, data):
         self.call_back.write('data recieved'.encode())
         conn = Qmysql.get()
-        Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
+        #Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
 
         insertdata = 'insert into message(uid,message,data) values(%d,\'%s\',\'%s\''')'%(UsrLoginStatue[self.call_back],data.decode(),Mglobal.Systime.getmysqltime())
         print(insertdata)
@@ -61,6 +62,49 @@ class dataHandle(baseHandle.baseDataHandle):
         else:
             Mloger.error('insert wrong!')
             return '0'
+
+
+            # deferToThread is a
+
+    def handle(self):
+        d = threads.deferToThread(self.action, self.data.encode())
+        d.addCallback(self.ret)
+        d.addErrback(self.err)
+
+    def err(self, failure):
+        Mloger.error(failure)
+
+class getuid(baseHandle.baseDataHandle):
+    def __init__(self, data, se):
+        self.se = se
+        self.call_back = se.transport
+        self.data = data
+
+    def ret(self, re):
+        #self.call_back.write(data)
+        if re != Define['ERRORSQL']:
+           self.uid = re[0]
+           print(re[0])
+           Mglobal.UsrLoginStatue[self.uid] = 1
+        return 0
+
+    def action(self, data):
+        self.call_back.write('data recieved'.encode())
+        conn = Qmysql.get()
+       # Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
+
+        insertdata = 'select uid from user where usrname=\'%s\''%(data.decode())
+        print(insertdata)
+        ans = conn._query(insertdata)
+        print(ans)
+        if (ans[0] == None):
+            Mloger.error('query wrong!')
+            return Define['ERRORSQL']
+        else:
+            Mloger.info("select  ok!")
+            Qmysql.put(conn)
+            return ans[0]
+
 
 
             # deferToThread is a

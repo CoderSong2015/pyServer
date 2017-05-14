@@ -14,6 +14,7 @@ def main():
     Lloger.info("init ok..host = %s:%d "%(hostname,hostport))
     Lloger.info("login server start ok..!")
     myserver.serve_forever()
+    print("asd")
 
 if __name__=='__main__':
     main()

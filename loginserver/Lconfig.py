@@ -6,7 +6,7 @@ logername = "Loginlog"
 
 filelogname = 'Loginlog.log'
 
-hostname = "localhost"
+hostname = "0.0.0.0"
 hostport = 9004
 
 Mainhostname = '127.0.0.1'

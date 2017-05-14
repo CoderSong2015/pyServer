@@ -26,7 +26,7 @@ class TSClntProtocol(protocol.Protocol):
            data = input('> ')
            if data:
                #print('...sending %s...')%(data)
-               da = self.p.addHeader(data,1)
+               da = self.p.addHeader(data,98)
                self.transport.write(da)
            else:
                self.transport.loseConnection()

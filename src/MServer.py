@@ -9,11 +9,12 @@ from src import datahandle as dt
 import struct
 from src import Mglobal
 from src.Mglobal import RKey
+from src.Mglobal import Define
 class MProtocol(LineReceiver):
 
     delimiter = '\n'
     databuf = bytes()
-
+    uid = 0
     def connectionMade(self):
 
         ipinfo = self.transport.getPeer()
@@ -22,12 +23,12 @@ class MProtocol(LineReceiver):
         else:
 
             Mloger.info('ip:%s : connect successfully!'%(ipinfo))
-        Mglobal.UsrLoginStatue[self.transport] = 1
+
 
 
     def connectionLost(self, reason):
         Mloger.info('ip:%s : lost connect'%self.transport.getPeer())
-
+        Mglobal.UsrLoginStatue[self.uid] = 0
     #you need to encode databuf before you send them,and decode them before you use those you have recived.
     #In python,the type  str is different from the type byte.
 
@@ -63,7 +64,6 @@ class MProtocol(LineReceiver):
 
     def processCmd(self,rdata,command_id):
         #self.transport.write(rdata.encode())
-        print(Mglobal.UsrLoginStatue[self.transport])
         if command_id == 0:
             han = dt.identificationHandle(rdata,self.transport)
             han.handle()
@@ -76,6 +76,21 @@ class MProtocol(LineReceiver):
         if command_id == 3:
             self.decryptdata(rdata)
             RKey.loadPrikey(rdata)
+        if command_id == Define['ACCOUNT']:
+            print("getuid")
+            han = dt.getuid(rdata,self)
+            re = han.handle()
+        if command_id == Define['Online']:
+            line = ''
+            if Mglobal.UsrLoginStatue:
+                for k,v in Mglobal.UsrLoginStatue.items():
+                    if v == 1:
+                        line = line + str(k) + ';'
+                self.transport.write(line.encode())
+            else:
+                self.transport.write("None".encode())
+
+
 
     def decryptdata(self,data):
         print(data)

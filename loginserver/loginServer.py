@@ -112,7 +112,7 @@ class handleThread_Post:
             self.se.send_response(200)
             self.se.send_header("Content-type", "src")
             self.se.end_headers()
-            self.se.wfile.write(bytes("hello", "utf-8"))
+            self.se.wfile.write(bytes("192.168.191.1:8889", "utf-8"))
 
     def handleDATA(self,data):
         kv = data.split(':')
@@ -179,3 +179,4 @@ if __name__=='__main__':
      myserver = ThreadingHttpServer((hostname,hostport),Myhttpserver)
 
      myserver.serve_forever()
+
