@@ -15,7 +15,7 @@ class dataConvert():
     def addHeader(self,data,command_id):
         length = 8 + len(data)
         value = [length,command_id]
-        header = struct.pack('!2I',*value)
+        header = struct.pack('@2I',*value)
 
         return header + data.encode()
 class TSClntProtocol(protocol.Protocol):
@@ -26,7 +26,7 @@ class TSClntProtocol(protocol.Protocol):
            data = input('> ')
            if data:
                #print('...sending %s...')%(data)
-               da = self.p.addHeader(data,98)
+               da = self.p.addHeader(data,99)
                self.transport.write(da)
            else:
                self.transport.loseConnection()

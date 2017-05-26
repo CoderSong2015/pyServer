@@ -117,6 +117,109 @@ class getuid(baseHandle.baseDataHandle):
     def err(self, failure):
         Mloger.error(failure)
 
+
+
+class getssid(baseHandle.baseDataHandle):
+    def __init__(self, uid, se):
+        self.se = se
+        self.call_back = se.transport
+        self.data = uid
+
+    def ret(self, re):
+        #self.call_back.write(data)
+        if re != Define['ERRORSQL']:
+           num = re[1]
+           ret = re[0]
+           print('num = %d'%num)
+           print(ret)
+           ans = ''
+           for i in range(num):
+               da = ret[i]
+               ssid = da[0]
+               ans = ans + '%d;'%ssid
+           self.call_back.write(ans.encode())
+        return 0
+
+    def action(self, data):
+        conn = Qmysql.get()
+       # Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
+
+        insertdata = 'select ssid  from sensor where uid =%s'%(data.decode())
+        print(insertdata)
+        ans = conn._queryall(insertdata)
+        print(ans)
+        if (ans[0] == None):
+            Mloger.error('query wrong!')
+            return Define['ERRORSQL']
+        else:
+            Mloger.info("select  ok!")
+            Qmysql.put(conn)
+            return ans
+
+
+
+            # deferToThread is a
+
+    def handle(self):
+        d = threads.deferToThread(self.action, self.data.encode())
+        d.addCallback(self.ret)
+        d.addErrback(self.err)
+
+    def err(self, failure):
+        Mloger.error(failure)
+
+
+class getssdata(baseHandle.baseDataHandle):
+    def __init__(self, uid, se):
+        self.se = se
+        self.call_back = se.transport
+        self.data = uid
+
+    def ret(self, re):
+        #self.call_back.write(data)
+        if re != Define['ERRORSQL']:
+
+           num = re[1]
+           ret = re[0]
+           print('num = %d'%num)
+           print(ret)
+           ans = ''
+           for i in range(num):
+               da = ret[i]
+               ssid = da[0]
+               ans = ans + '%s;'%ssid
+           print(ans)
+           #self.call_back.write(ans.encode())
+        return 0
+
+    def action(self, data):
+        conn = Qmysql.get()
+       # Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
+        print('do action..')
+        insertdata = 'select message  from message where uid =%s && ssid = %s order by data limit 0,15'%(self.se.nowid,data.decode())
+        print(insertdata)
+        ans = conn._queryall(insertdata)
+        print(ans)
+        if (ans[0] == None):
+            Mloger.error('query wrong!')
+            return Define['ERRORSQL']
+        else:
+            Mloger.info("select  ok!")
+            Qmysql.put(conn)
+            return ans
+
+
+
+            # deferToThread is a
+
+    def handle(self):
+        d = threads.deferToThread(self.action, self.data.encode())
+        d.addCallback(self.ret)
+        d.addErrback(self.err)
+
+    def err(self, failure):
+        Mloger.error(failure)
+
 class dataSaveHandle(baseHandle.baseDataHandle):
     def __init__(self,info,data):
         pass

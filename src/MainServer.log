@@ -867,3 +867,905 @@ F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:89:action
 2017-05-14 23:49:00,096 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 10142) : connect successfully!
 2017-05-14 23:49:02,464 - Mainserverlog -log.py[line:26]-INFO -select  ok!
 2017-05-14 23:49:10,515 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 10151) : connect successfully!
+2017-05-15 09:35:45,429 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 09:36:01,403 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11135) : connect successfully!
+2017-05-15 09:36:02,036 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11135) : lost connect
+2017-05-15 09:37:16,785 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11157) : connect successfully!
+2017-05-15 09:37:16,898 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11157) : lost connect
+2017-05-15 09:38:45,896 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 09:38:49,592 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11365) : connect successfully!
+2017-05-15 09:39:19,164 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11365) : lost connect
+2017-05-15 09:42:10,408 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11723) : connect successfully!
+2017-05-15 09:43:02,866 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 09:43:05,956 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11792) : connect successfully!
+2017-05-15 09:43:10,925 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11792) : lost connect
+2017-05-15 09:43:13,722 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11798) : connect successfully!
+2017-05-15 09:43:15,790 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11798) : lost connect
+2017-05-15 09:47:44,294 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11980) : connect successfully!
+2017-05-15 09:47:54,751 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11980) : lost connect
+2017-05-15 09:47:56,863 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11984) : connect successfully!
+2017-05-15 09:47:59,147 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11984) : lost connect
+2017-05-15 09:48:28,956 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11991) : connect successfully!
+2017-05-15 09:49:15,982 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 11991) : lost connect
+2017-05-15 09:49:37,148 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12011) : connect successfully!
+2017-05-15 09:50:47,692 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12119) : connect successfully!
+2017-05-15 09:51:53,843 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12011) : lost connect
+2017-05-15 09:52:01,780 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12119) : lost connect
+2017-05-15 09:52:08,722 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12162) : connect successfully!
+2017-05-15 09:53:03,233 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12177) : connect successfully!
+2017-05-15 09:54:29,010 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12177) : lost connect
+2017-05-15 09:54:43,589 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12162) : lost connect
+2017-05-15 09:55:05,347 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12228) : connect successfully!
+2017-05-15 09:56:13,245 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12228) : lost connect
+2017-05-15 09:56:25,631 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12263) : connect successfully!
+2017-05-15 09:56:39,702 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12263) : lost connect
+2017-05-15 09:56:40,265 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12268) : connect successfully!
+2017-05-15 09:56:43,192 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12268) : lost connect
+2017-05-15 09:58:11,780 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 09:58:33,728 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12345) : connect successfully!
+2017-05-15 09:59:39,832 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12345) : lost connect
+2017-05-15 09:59:45,704 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12375) : connect successfully!
+2017-05-15 10:00:04,932 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12375) : lost connect
+2017-05-15 10:00:08,948 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:00:17,516 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12395) : connect successfully!
+2017-05-15 10:02:39,869 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:02:44,757 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12449) : connect successfully!
+2017-05-15 10:03:25,814 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:03:30,625 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12473) : connect successfully!
+2017-05-15 10:06:33,751 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:06:38,282 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12535) : connect successfully!
+2017-05-15 10:06:44,059 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12535) : lost connect
+2017-05-15 10:07:21,300 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12545) : connect successfully!
+2017-05-15 10:07:27,828 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:07:32,711 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12555) : connect successfully!
+2017-05-15 10:08:29,729 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12571) : connect successfully!
+2017-05-15 10:08:35,322 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12571) : lost connect
+2017-05-15 10:08:55,724 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12587) : connect successfully!
+2017-05-15 10:08:57,431 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12587) : lost connect
+2017-05-15 10:12:24,922 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:12:27,153 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12737) : connect successfully!
+2017-05-15 10:12:46,108 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12737) : lost connect
+2017-05-15 10:12:47,857 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12751) : connect successfully!
+2017-05-15 10:12:59,831 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12751) : lost connect
+2017-05-15 10:13:01,371 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12758) : connect successfully!
+2017-05-15 10:13:15,798 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12758) : lost connect
+2017-05-15 10:13:17,707 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12771) : connect successfully!
+2017-05-15 10:13:26,594 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:13:28,843 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12787) : connect successfully!
+2017-05-15 10:15:08,986 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:15:14,623 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 12836) : connect successfully!
+2017-05-15 10:15:46,616 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12847) : connect successfully!
+2017-05-15 10:28:46,559 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 12847) : lost connect
+2017-05-15 10:29:10,479 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13100) : connect successfully!
+2017-05-15 10:29:36,326 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13100) : lost connect
+2017-05-15 10:30:10,129 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13109) : connect successfully!
+2017-05-15 10:30:15,973 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13109) : lost connect
+2017-05-15 10:31:00,889 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13112) : connect successfully!
+2017-05-15 10:31:32,379 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13112) : lost connect
+2017-05-15 10:31:51,929 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:32:01,947 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13133) : connect successfully!
+2017-05-15 10:32:12,810 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13133) : lost connect
+2017-05-15 10:32:42,614 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13152) : connect successfully!
+2017-05-15 10:33:40,004 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 13183) : connect successfully!
+2017-05-15 10:34:41,686 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13152) : lost connect
+2017-05-15 10:36:19,464 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 10:36:21,482 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 13223) : connect successfully!
+2017-05-15 10:37:55,724 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13250) : connect successfully!
+2017-05-15 10:38:08,114 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13250) : lost connect
+2017-05-15 10:38:21,612 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13259) : connect successfully!
+2017-05-15 10:44:04,462 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 13259) : lost connect
+2017-05-15 15:14:59,318 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 13223) : lost connect
+2017-05-15 15:15:08,336 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 18211) : connect successfully!
+2017-05-15 15:15:14,224 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 18214) : connect successfully!
+2017-05-15 15:15:23,903 - Mainserverlog -log.py[line:35]-ERROR -query wrong!
+2017-05-15 15:15:40,205 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 15:15:48,441 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 15:30:48,431 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 18915) : connect successfully!
+2017-05-15 15:31:45,219 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 18915) : lost connect
+2017-05-15 15:32:58,827 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 18936) : connect successfully!
+2017-05-15 15:33:20,228 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 18936) : lost connect
+2017-05-15 15:37:14,773 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19024) : connect successfully!
+2017-05-15 15:37:17,412 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19024) : lost connect
+2017-05-15 15:37:39,906 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19031) : connect successfully!
+2017-05-15 15:37:40,901 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19031) : lost connect
+2017-05-15 15:40:46,890 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19224) : connect successfully!
+2017-05-15 15:41:08,148 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 19238) : connect successfully!
+2017-05-15 15:52:27,711 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19224) : lost connect
+2017-05-15 15:52:35,506 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19821) : connect successfully!
+2017-05-15 15:52:42,448 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19821) : lost connect
+2017-05-15 15:53:38,505 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19830) : connect successfully!
+2017-05-15 15:55:08,903 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19830) : lost connect
+2017-05-15 15:56:11,286 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19997) : connect successfully!
+2017-05-15 15:57:49,420 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 19997) : lost connect
+2017-05-15 15:58:14,183 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20044) : connect successfully!
+2017-05-15 16:04:01,057 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20044) : lost connect
+2017-05-15 16:04:07,205 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20161) : connect successfully!
+2017-05-15 16:04:17,809 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20161) : lost connect
+2017-05-15 16:05:53,825 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20188) : connect successfully!
+2017-05-15 16:06:36,263 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20188) : lost connect
+2017-05-15 16:07:39,549 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20217) : connect successfully!
+2017-05-15 16:07:44,221 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20217) : lost connect
+2017-05-15 16:07:45,946 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20218) : connect successfully!
+2017-05-15 16:07:52,130 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20218) : lost connect
+2017-05-15 16:08:12,267 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20223) : connect successfully!
+2017-05-15 16:08:13,876 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20223) : lost connect
+2017-05-15 16:09:52,686 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20262) : connect successfully!
+2017-05-15 16:10:04,620 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20262) : lost connect
+2017-05-15 16:10:10,061 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 18211) : lost connect
+2017-05-15 16:10:11,467 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 18214) : lost connect
+2017-05-15 16:10:12,844 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 19238) : lost connect
+2017-05-15 16:10:47,482 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 16:10:55,891 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20280) : connect successfully!
+2017-05-15 16:11:18,237 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 20285) : connect successfully!
+2017-05-15 16:11:22,005 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 16:11:25,597 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 20288) : connect successfully!
+2017-05-15 16:11:27,518 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 16:11:34,192 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20280) : lost connect
+2017-05-15 16:11:41,393 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20289) : connect successfully!
+2017-05-15 16:12:03,080 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20289) : lost connect
+2017-05-15 16:14:42,542 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20331) : connect successfully!
+2017-05-15 16:15:20,612 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20331) : lost connect
+2017-05-15 16:16:02,343 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20370) : connect successfully!
+2017-05-15 16:16:28,506 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 20370) : lost connect
+2017-05-15 16:36:30,790 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 16:36:33,652 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 21870) : connect successfully!
+2017-05-15 16:36:35,359 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 16:36:38,373 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 21874) : connect successfully!
+2017-05-15 16:36:39,961 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 16:36:52,866 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 21877) : connect successfully!
+2017-05-15 16:37:04,936 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 21877) : lost connect
+2017-05-15 16:39:54,483 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22001) : connect successfully!
+2017-05-15 16:40:10,477 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22001) : lost connect
+2017-05-15 16:42:19,155 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22061) : connect successfully!
+2017-05-15 16:43:53,262 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22061) : lost connect
+2017-05-15 16:52:53,378 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22578) : connect successfully!
+2017-05-15 16:53:09,823 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22578) : lost connect
+2017-05-15 16:53:22,004 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22590) : connect successfully!
+2017-05-15 16:53:34,190 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 22590) : lost connect
+2017-05-15 23:34:58,888 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25247) : connect successfully!
+2017-05-15 23:35:16,300 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 23:35:26,323 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25277) : connect successfully!
+2017-05-15 23:35:36,244 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25277) : lost connect
+2017-05-15 23:37:25,426 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25354) : connect successfully!
+2017-05-15 23:37:33,170 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25354) : lost connect
+2017-05-15 23:46:53,403 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25908) : connect successfully!
+2017-05-15 23:47:58,008 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25908) : lost connect
+2017-05-15 23:48:06,967 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25941) : connect successfully!
+2017-05-15 23:48:08,610 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 23:48:11,947 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25945) : connect successfully!
+2017-05-15 23:48:13,412 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 23:48:22,643 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25955) : connect successfully!
+2017-05-15 23:48:43,338 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25941) : lost connect
+2017-05-15 23:48:45,744 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25945) : lost connect
+2017-05-15 23:49:07,832 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 23:49:11,163 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25984) : connect successfully!
+2017-05-15 23:49:12,746 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 23:49:15,409 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25989) : connect successfully!
+2017-05-15 23:49:16,912 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 23:49:20,248 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25997) : connect successfully!
+2017-05-15 23:49:43,571 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25997) : lost connect
+2017-05-15 23:52:22,858 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-15 23:52:47,949 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26093) : connect successfully!
+2017-05-15 23:52:54,125 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26093) : lost connect
+2017-05-15 23:58:01,474 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26151) : connect successfully!
+2017-05-15 23:58:14,358 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26158) : connect successfully!
+2017-05-15 23:58:16,178 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-15 23:58:26,391 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26151) : lost connect
+2017-05-16 00:12:09,783 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26625) : connect successfully!
+2017-05-16 00:12:17,928 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26629) : connect successfully!
+2017-05-16 00:12:22,814 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-16 00:12:46,946 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26629) : lost connect
+2017-05-16 00:13:44,870 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26625) : lost connect
+2017-05-16 00:13:59,436 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-16 00:14:02,595 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26665) : connect successfully!
+2017-05-16 00:14:04,263 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-16 00:14:12,428 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26668) : connect successfully!
+2017-05-16 00:14:22,240 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26674) : connect successfully!
+2017-05-16 00:14:23,907 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-16 00:14:31,647 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 26674) : lost connect
+2017-05-16 00:15:32,508 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 26668) : lost connect
+2017-05-25 09:27:40,830 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-25 09:27:41,126 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 37965) : connect successfully!
+2017-05-25 09:27:43,244 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-25 09:27:45,904 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 37973) : connect successfully!
+2017-05-25 09:27:50,003 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-25 09:28:05,225 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 37980) : connect successfully!
+2017-05-25 09:28:50,166 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 37980) : lost connect
+2017-05-26 10:21:39,703 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:22:14,782 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53098) : connect successfully!
+2017-05-26 10:22:28,632 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 53102) : connect successfully!
+2017-05-26 10:22:30,971 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:22:34,322 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 53105) : connect successfully!
+2017-05-26 10:22:35,841 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:24:43,885 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 53102) : lost connect
+2017-05-26 10:29:12,649 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53098) : lost connect
+2017-05-26 10:30:34,138 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53517) : connect successfully!
+2017-05-26 10:31:52,329 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53517) : lost connect
+2017-05-26 10:32:00,874 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53550) : connect successfully!
+2017-05-26 10:32:38,488 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53550) : lost connect
+2017-05-26 10:34:33,366 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53650) : connect successfully!
+2017-05-26 10:35:14,476 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53650) : lost connect
+2017-05-26 10:36:19,257 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:36:22,283 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 53739) : connect successfully!
+2017-05-26 10:36:24,364 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:36:36,290 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53740) : connect successfully!
+2017-05-26 10:38:25,518 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53740) : lost connect
+2017-05-26 10:41:08,274 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 53926) : connect successfully!
+2017-05-26 10:41:09,851 - Mainserverlog -log.py[line:35]-ERROR -query wrong!
+2017-05-26 10:43:35,310 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:43:38,213 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54156) : connect successfully!
+2017-05-26 10:43:47,490 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54160) : connect successfully!
+2017-05-26 10:43:49,446 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:43:53,840 - Mainserverlog -log.py[line:35]-ERROR -query wrong!
+2017-05-26 10:44:21,117 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54156) : lost connect
+2017-05-26 10:44:36,531 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54163) : connect successfully!
+2017-05-26 10:45:03,846 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:45:06,435 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54228) : connect successfully!
+2017-05-26 10:45:09,366 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:45:11,759 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54235) : connect successfully!
+2017-05-26 10:46:01,652 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:46:04,618 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54260) : connect successfully!
+2017-05-26 10:46:08,645 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54264) : connect successfully!
+2017-05-26 10:46:10,261 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:46:30,813 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54260) : lost connect
+2017-05-26 10:47:14,793 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54403) : connect successfully!
+2017-05-26 10:47:43,251 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54403) : lost connect
+2017-05-26 10:48:42,187 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:48:45,652 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54452) : connect successfully!
+2017-05-26 10:48:47,601 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:48:47,601 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:48:47,602 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 10:48:47,612 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:48:56,320 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54454) : connect successfully!
+2017-05-26 10:48:57,274 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:48:57,275 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:48:57,275 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:49:01,522 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:49:01,522 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 10:49:01,522 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 10:49:22,054 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54454) : lost connect
+2017-05-26 10:49:24,439 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54549) : connect successfully!
+2017-05-26 10:49:25,978 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:49:25,979 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:49:25,979 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 10:49:25,980 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:49:33,028 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54555) : connect successfully!
+2017-05-26 10:49:33,633 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:49:33,633 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:49:33,633 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:49:34,468 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:49:34,468 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 10:49:34,468 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 10:49:39,504 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54555) : lost connect
+2017-05-26 10:51:10,091 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54579) : connect successfully!
+2017-05-26 10:51:11,244 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:51:11,245 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:51:11,245 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:51:22,046 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54549) : lost connect
+2017-05-26 10:51:23,603 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54589) : connect successfully!
+2017-05-26 10:51:25,195 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:51:25,195 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:51:25,195 - Mainserverlog -log.py[line:26]-INFO -rdata:ao
+2017-05-26 10:51:25,196 - Mainserverlog -log.py[line:35]-ERROR -query wrong!
+2017-05-26 10:51:27,683 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54589) : lost connect
+2017-05-26 10:51:31,593 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54593) : connect successfully!
+2017-05-26 10:51:33,126 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:51:33,127 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:51:33,127 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-26 10:51:33,128 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:51:36,316 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54594) : connect successfully!
+2017-05-26 10:51:37,161 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:51:37,162 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:51:37,162 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:51:45,547 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54594) : lost connect
+2017-05-26 10:51:45,547 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54579) : lost connect
+2017-05-26 10:51:49,649 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54595) : connect successfully!
+2017-05-26 10:51:50,384 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:51:50,384 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:51:50,384 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:51:59,309 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54595) : lost connect
+2017-05-26 10:54:06,296 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:54:13,827 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54773) : connect successfully!
+2017-05-26 10:54:15,269 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:54:15,269 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:54:15,270 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 10:54:15,280 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:54:20,495 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54774) : connect successfully!
+2017-05-26 10:54:21,795 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:54:21,795 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:54:21,795 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:54:59,091 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54774) : lost connect
+2017-05-26 10:55:40,296 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54785) : connect successfully!
+2017-05-26 10:55:41,205 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:55:41,206 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:55:41,206 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:55:42,164 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:55:42,164 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 10:55:42,164 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 10:55:47,159 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54785) : lost connect
+2017-05-26 10:59:22,488 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 10:59:24,740 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 54949) : connect successfully!
+2017-05-26 10:59:26,905 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:59:26,906 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 10:59:26,906 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 10:59:26,916 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 10:59:35,308 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 54958) : connect successfully!
+2017-05-26 10:59:36,159 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:59:36,159 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 10:59:36,159 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 10:59:38,005 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 10:59:38,005 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 10:59:38,005 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 10:59:38,006 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:01:43,678 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:01:47,370 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55076) : connect successfully!
+2017-05-26 11:01:49,741 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:01:49,741 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:01:49,741 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:01:49,751 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:02:01,724 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55081) : connect successfully!
+2017-05-26 11:02:03,311 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:02:03,311 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:02:03,311 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:02:04,650 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:02:04,650 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:02:04,650 - Mainserverlog -log.py[line:26]-INFO -rdata:(1,)
+2017-05-26 11:02:04,651 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'bool' object is not subscriptable
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:144:action
+]
+2017-05-26 11:02:10,624 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55081) : lost connect
+2017-05-26 11:04:04,118 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:04:12,753 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55126) : connect successfully!
+2017-05-26 11:04:14,453 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:04:14,454 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:04:14,454 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:04:14,464 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:04:18,623 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55127) : connect successfully!
+2017-05-26 11:04:20,032 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:04:20,033 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:04:20,033 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:04:23,851 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:04:23,852 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:04:23,852 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:04:23,853 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:07:41,279 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:07:44,395 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55289) : connect successfully!
+2017-05-26 11:07:46,019 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:07:46,019 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:07:46,019 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:07:46,029 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:07:48,219 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55290) : connect successfully!
+2017-05-26 11:07:49,374 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:07:49,374 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:07:49,375 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:07:50,260 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:07:50,260 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:07:50,260 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:07:50,261 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:07:50,261 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'int' object is not iterable
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:134:ret
+]
+2017-05-26 11:09:18,908 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:09:27,593 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55322) : connect successfully!
+2017-05-26 11:09:29,157 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:09:29,157 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:09:29,157 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:09:29,167 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:09:33,350 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55324) : connect successfully!
+2017-05-26 11:09:34,579 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:09:34,579 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:09:34,579 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:09:35,230 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:09:35,230 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:09:35,230 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:09:35,231 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:09:35,232 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'int' object is not iterable
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:134:ret
+]
+2017-05-26 11:09:56,954 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:09:59,336 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55342) : connect successfully!
+2017-05-26 11:10:00,881 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:10:00,881 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:10:00,881 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:10:00,890 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:10:03,074 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55343) : connect successfully!
+2017-05-26 11:10:03,736 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:10:03,736 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:10:03,736 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:10:04,289 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:10:04,289 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:10:04,289 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:10:04,290 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:10:04,291 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'int' object is not iterable
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:134:ret
+]
+2017-05-26 11:10:57,020 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:11:01,438 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55357) : connect successfully!
+2017-05-26 11:11:03,182 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:03,182 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:11:03,182 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:11:03,192 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:11:06,617 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55358) : connect successfully!
+2017-05-26 11:11:07,779 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:07,779 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:11:07,780 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:11:09,016 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:09,016 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:11:09,017 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:11:09,017 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:11:09,018 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'int' object is not iterable
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:134:ret
+]
+2017-05-26 11:11:39,873 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:11:42,384 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55374) : connect successfully!
+2017-05-26 11:11:43,766 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:43,767 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:11:43,767 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:11:43,776 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:11:46,011 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55375) : connect successfully!
+2017-05-26 11:11:46,536 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:46,537 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:11:46,537 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:11:47,056 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:11:47,056 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:11:47,056 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:11:47,057 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:13:17,450 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:13:19,193 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55408) : connect successfully!
+2017-05-26 11:13:20,510 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:13:20,510 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:13:20,510 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:13:20,523 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:13:23,174 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55410) : connect successfully!
+2017-05-26 11:13:23,742 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:13:23,742 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:13:23,743 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:13:24,488 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:13:24,488 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:13:24,489 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:13:24,490 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:13:24,490 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'UnboundLocalError'>: local variable 'ans' referenced before assignment
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:137:ret
+]
+2017-05-26 11:13:51,389 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:13:53,286 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55435) : connect successfully!
+2017-05-26 11:13:55,156 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:13:55,157 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:13:55,157 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:13:55,166 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:13:58,768 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55436) : connect successfully!
+2017-05-26 11:13:59,344 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:13:59,344 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:13:59,344 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:14:00,039 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:14:00,040 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:14:00,040 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:14:00,041 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:14:00,041 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'UnboundLocalError'>: local variable 'ans' referenced before assignment
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:137:ret
+]
+2017-05-26 11:14:25,177 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:14:39,956 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55451) : connect successfully!
+2017-05-26 11:14:41,877 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:14:41,877 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:14:41,877 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:14:41,886 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:14:44,923 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55452) : connect successfully!
+2017-05-26 11:14:46,110 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:14:46,110 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:14:46,110 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:14:46,921 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:14:46,921 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:14:46,921 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:14:46,922 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:14:46,923 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'UnboundLocalError'>: local variable 'ans' referenced before assignment
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:139:ret
+]
+2017-05-26 11:15:47,316 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:15:49,093 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55621) : connect successfully!
+2017-05-26 11:15:50,332 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:15:50,332 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:15:50,332 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:15:50,343 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:15:53,070 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55622) : connect successfully!
+2017-05-26 11:15:53,694 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:15:53,694 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:15:53,694 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:15:54,402 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:15:54,403 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:15:54,403 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:15:54,404 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:18:16,629 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55622) : lost connect
+2017-05-26 11:18:19,517 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 11:18:21,759 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55716) : connect successfully!
+2017-05-26 11:18:21,973 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55716) : lost connect
+2017-05-26 11:18:23,491 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55719) : connect successfully!
+2017-05-26 11:18:24,895 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:24,895 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:18:24,895 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 11:18:24,906 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:18:27,442 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55720) : connect successfully!
+2017-05-26 11:18:29,653 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:29,653 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:18:29,653 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:18:30,682 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:30,682 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:18:30,682 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:18:30,683 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:18:50,744 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:50,744 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:18:50,744 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:18:51,504 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:51,504 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:18:51,504 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:18:51,505 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:18:53,914 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:53,915 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:18:53,915 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:18:54,437 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:18:54,437 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:18:54,437 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:18:54,438 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:12,171 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55720) : lost connect
+2017-05-26 11:19:16,254 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55731) : connect successfully!
+2017-05-26 11:19:17,338 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:17,338 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:19:17,338 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:19:19,507 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:19,507 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:19,507 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:19,508 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:20,290 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:20,290 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:20,290 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:20,291 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:28,129 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55753) : connect successfully!
+2017-05-26 11:19:29,486 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:29,486 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 11:19:29,487 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-26 11:19:29,488 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:42,387 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:42,387 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 11:19:42,387 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 11:19:43,269 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:43,269 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:43,269 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:43,270 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:45,201 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:45,201 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:45,201 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:45,202 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:45,972 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:45,972 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:45,972 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:45,973 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:46,542 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:46,542 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:46,543 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:46,544 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:47,098 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:47,099 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:47,099 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:47,102 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:47,657 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:47,657 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:47,657 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:47,658 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:48,303 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:48,303 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:48,303 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:48,304 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:48,874 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:48,874 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:48,874 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:48,875 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:49,522 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:49,522 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:49,522 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:49,523 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:50,016 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:50,016 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:50,016 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:50,017 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:50,568 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:50,569 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:50,569 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:50,570 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:51,038 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:51,038 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:51,039 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:51,039 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:51,699 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:51,699 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:51,700 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:51,701 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:52,353 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:52,353 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:52,353 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:52,354 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:52,885 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:52,885 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:52,885 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:52,886 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:53,405 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:53,405 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:53,406 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 11:19:53,406 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:53,956 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 11:19:53,956 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 11:19:53,956 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 11:19:53,957 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 11:19:57,699 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 55731) : lost connect
+2017-05-26 22:17:30,094 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 55753) : lost connect
+2017-05-26 22:26:12,973 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:26:15,337 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 24291) : connect successfully!
+2017-05-26 22:26:17,390 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:26:17,390 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:26:17,390 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:26:17,504 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:26:19,965 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 24297) : connect successfully!
+2017-05-26 22:26:23,154 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:26:23,154 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:26:23,154 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:26:25,810 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:26:25,810 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:26:25,810 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:26:25,812 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:26:28,775 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:26:28,775 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:26:28,775 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 22:26:28,776 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'AttributeError'>: 'getssdata' object has no attribute 'uid'
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:198:action
+]
+2017-05-26 22:28:10,937 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:28:10,937 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:28:10,937 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-26 22:28:10,938 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'AttributeError'>: 'getssdata' object has no attribute 'uid'
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:198:action
+]
+2017-05-26 22:29:22,975 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:29:25,306 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 24408) : connect successfully!
+2017-05-26 22:29:26,677 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:29:26,677 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:29:26,678 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:29:26,688 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:29:29,874 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 24413) : connect successfully!
+2017-05-26 22:29:31,056 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:29:31,056 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:29:31,056 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:29:32,089 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:29:32,090 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:29:32,090 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:29:32,091 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:29:34,220 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:29:34,220 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:29:34,220 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 22:29:34,221 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'AttributeError'>: 'getssdata' object has no attribute 'uid'
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:198:action
+]
+2017-05-26 22:30:21,016 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:30:23,720 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 24455) : connect successfully!
+2017-05-26 22:30:27,388 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:30:27,388 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:30:27,389 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:30:27,398 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:30:31,444 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 24459) : connect successfully!
+2017-05-26 22:30:32,110 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:30:32,111 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:30:32,111 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:30:32,911 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:30:32,911 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:30:32,911 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:30:32,912 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:30:33,997 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:30:33,997 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:30:33,997 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:30:33,998 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'bool' object is not subscriptable
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:202:action
+]
+2017-05-26 22:32:53,579 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 24634) : connect successfully!
+2017-05-26 22:32:55,022 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:32:55,022 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:32:55,022 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-26 22:32:55,023 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:32:58,419 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:32:58,419 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:32:58,419 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:32:59,329 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:32:59,329 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:32:59,330 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 22:32:59,331 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:33:00,529 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:33:00,529 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:33:00,529 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-26 22:33:00,531 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'bool' object is not subscriptable
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:202:action
+]
+2017-05-26 22:35:45,656 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:35:45,656 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:35:45,656 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 22:35:45,658 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'bool' object is not subscriptable
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:202:action
+]
+2017-05-26 22:38:18,615 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:38:23,167 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25082) : connect successfully!
+2017-05-26 22:38:24,692 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:38:24,692 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:38:24,692 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:38:24,703 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:38:35,548 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25093) : connect successfully!
+2017-05-26 22:38:35,949 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:38:35,949 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:38:35,949 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:38:36,806 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:38:36,806 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:38:36,806 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:38:36,807 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:38:38,135 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:38:38,135 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:38:38,135 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:38:38,137 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:38:38,138 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: %d format: a number is required, not str
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:190:ret
+]
+2017-05-26 22:41:01,907 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:41:04,664 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25194) : connect successfully!
+2017-05-26 22:41:06,394 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:41:06,394 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:41:06,395 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:41:06,403 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:41:10,399 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25199) : connect successfully!
+2017-05-26 22:41:11,120 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:41:11,120 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:41:11,120 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:41:11,914 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:41:11,914 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:41:11,914 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:41:11,915 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:41:13,091 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:41:13,091 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:41:13,091 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:41:13,093 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:41:13,093 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: %d format: a number is required, not str
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:190:ret
+]
+2017-05-26 22:42:06,011 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 22:42:08,092 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25231) : connect successfully!
+2017-05-26 22:42:09,795 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 25234) : connect successfully!
+2017-05-26 22:42:11,826 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:42:11,826 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:42:11,826 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-26 22:42:11,836 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:42:14,800 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:42:14,800 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 22:42:14,801 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 22:42:14,801 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:42:18,606 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 25243) : connect successfully!
+2017-05-26 22:42:19,621 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:42:19,621 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 22:42:19,621 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 22:42:20,699 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:42:20,700 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 22:42:20,700 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:42:20,701 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 22:42:22,966 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 22:42:22,966 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 22:42:22,967 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 22:42:22,968 - Mainserverlog -log.py[line:26]-INFO -select  ok!

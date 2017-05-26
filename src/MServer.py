@@ -15,6 +15,7 @@ class MProtocol(LineReceiver):
     delimiter = '\n'
     databuf = bytes()
     uid = 0
+    nowid = 0
     def connectionMade(self):
 
         ipinfo = self.transport.getPeer()
@@ -27,23 +28,25 @@ class MProtocol(LineReceiver):
 
 
     def connectionLost(self, reason):
-        Mloger.info('ip:%s : lost connect'%self.transport.getPeer())
+        print(self.uid)
         Mglobal.UsrLoginStatue[self.uid] = 0
+        Mloger.info('ip:%s : lost connect'%self.transport.getPeer())
+
     #you need to encode databuf before you send them,and decode them before you use those you have recived.
     #In python,the type  str is different from the type byte.
 
 
     def dataReceived(self, package):
-        print(package.decode())
+        print(package)
+        #length, command_id = struct.unpack('@2I', package)
         self.databuf += package
-
         while True:
             #if the length of buffer less than 8(the length of data's head)
             #break
             if len(self.databuf) < 8:
                 break
 
-            length, command_id = struct.unpack('!2I', self.databuf[:8])
+            length, command_id = struct.unpack('@2I', self.databuf[:8])
             if length > len(self.databuf):
                 break
 
@@ -63,6 +66,9 @@ class MProtocol(LineReceiver):
                 break
 
     def processCmd(self,rdata,command_id):
+        Mloger.info("command_id:")
+        Mloger.info(command_id)
+        Mloger.info("rdata:" + rdata)
         #self.transport.write(rdata.encode())
         if command_id == 0:
             han = dt.identificationHandle(rdata,self.transport)
@@ -82,14 +88,28 @@ class MProtocol(LineReceiver):
             re = han.handle()
         if command_id == Define['Online']:
             line = ''
+            flag = 0
             if Mglobal.UsrLoginStatue:
                 for k,v in Mglobal.UsrLoginStatue.items():
                     if v == 1:
+                        flag = 1
                         line = line + str(k) + ';'
-                self.transport.write(line.encode())
+                print(line)
+                if flag:
+                    self.transport.write(line.encode())
+                else:
+                    self.transport.write("None".encode())
             else:
                 self.transport.write("None".encode())
-
+        if command_id == Define['onlineSS']:
+            self.nowid = rdata
+            print(rdata)
+            han = dt.getssid(rdata,self)
+            re = han.handle()
+        if command_id == Define['SSDATA']:
+            print(rdata)
+            han = dt.getssdata(rdata,self)
+            re = han.handle()
 
 
     def decryptdata(self,data):

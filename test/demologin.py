@@ -24,7 +24,5 @@ print(r.text)
 
 '''
 
-dd = {'dataaa':'song'}
-leng = '%d'%len(dd)
 r = requests.post('http://localhost:9004',data = ret)
 print(r.text)

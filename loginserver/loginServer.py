@@ -6,7 +6,7 @@ from loginserver.Lconfig import mysql_conf
 from socketserver import ThreadingMixIn
 from loginserver.Lconfig import hostname,hostport
 from loginserver.Lgloble import Loginkey
-
+from loginserver.Lgloble import systime
 class handleThread():
     def __init__(self,arg):
         #super(handleThread, self).__init__()
@@ -109,6 +109,10 @@ class handleThread_Post:
             self.se.wfile.write(bytes("wrong", "utf-8"))
         else:
             print(re)
+            sqls = "update user set lastlogin = \'%s\' where usrname = \'%s\' " % ( systime.getmysqltime(),kv[0])
+            re = self.Obj_mysql._update(sqls)
+            print(re)
+            print(sqls)
             self.se.send_response(200)
             self.se.send_header("Content-type", "src")
             self.se.end_headers()

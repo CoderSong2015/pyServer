@@ -62,7 +62,14 @@ class sql_operate():
         except:
             return False
 
-
+    def _queryall(self,sqls):
+        try:
+            self.dcur.execute(sqls)
+            data = self.dcur.fetchall()
+            num = self.dcur.rowcount
+            return (data,num)
+        except:
+            return False
     def _fetchall(self):
         return self.dcur.fetchall()
 
