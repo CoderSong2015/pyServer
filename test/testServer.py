@@ -22,18 +22,25 @@ class TSClntProtocol(protocol.Protocol):
 
       p = dataConvert()
 
-      def sendData(self):
-           data = input('> ')
+      def loginData(self):
+           data = input('loginname> ')
            if data:
                #print('...sending %s...')%(data)
                da = self.p.addHeader(data,99)
                self.transport.write(da)
            else:
                self.transport.loseConnection()
-
+      def sendData(self):
+           data = input('> ')
+           if data:
+               #print('...sending %s...')%(data)
+               da = self.p.addHeader(data,1)
+               self.transport.write(da)
+           else:
+               self.transport.loseConnection()
 
       def connectionMade(self):
-            self.sendData()
+            self.loginData()
 
       def dataReceived(self, data):
             print(data.decode())

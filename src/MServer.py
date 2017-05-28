@@ -70,11 +70,9 @@ class MProtocol(LineReceiver):
         Mloger.info(command_id)
         Mloger.info("rdata:" + rdata)
         #self.transport.write(rdata.encode())
-        if command_id == 0:
-            han = dt.identificationHandle(rdata,self.transport)
-            han.handle()
-        if command_id == 1:
-            testh = dt.dataHandle(rdata,self.transport)
+
+        if command_id == Define['RECVDATA']:
+            testh = dt.dataHandle(rdata,self)
             testh.handle()
         if command_id == 2:
             self.decryptdata(rdata)

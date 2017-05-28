@@ -1769,3 +1769,1746 @@ F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:190:ret
 2017-05-26 22:42:22,966 - Mainserverlog -log.py[line:26]-INFO -55
 2017-05-26 22:42:22,967 - Mainserverlog -log.py[line:26]-INFO -rdata:1
 2017-05-26 22:42:22,968 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:39:35,285 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-26 23:39:38,950 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 27971) : connect successfully!
+2017-05-26 23:39:40,492 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:39:40,492 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 23:39:40,492 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-26 23:39:40,502 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:39:44,304 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 27975) : connect successfully!
+2017-05-26 23:39:45,746 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:39:45,746 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-26 23:39:45,747 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-26 23:39:45,748 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:40:46,560 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28034) : connect successfully!
+2017-05-26 23:40:47,696 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:40:47,697 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:40:47,697 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:40:48,712 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:40:48,713 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:40:48,713 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:40:48,714 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:40:49,981 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:40:49,982 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:40:49,982 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:40:49,983 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:40:58,158 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:40:58,159 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:40:58,159 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:40:58,160 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:40:59,350 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:40:59,351 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:40:59,351 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:40:59,352 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:41:12,924 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28034) : lost connect
+2017-05-26 23:45:15,872 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28211) : connect successfully!
+2017-05-26 23:45:19,693 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:45:19,693 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:45:19,693 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:45:21,232 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:45:21,232 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:45:21,232 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:45:21,233 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:45:24,455 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:45:24,455 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:45:24,456 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:45:24,457 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:45:32,471 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28211) : lost connect
+2017-05-26 23:46:38,753 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28253) : connect successfully!
+2017-05-26 23:46:39,587 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:46:39,587 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:46:39,587 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:46:41,992 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:46:41,993 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:46:41,993 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:46:41,994 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:46:42,961 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:46:42,961 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:46:42,961 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:46:42,962 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:46:48,714 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28253) : lost connect
+2017-05-26 23:47:14,629 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28272) : connect successfully!
+2017-05-26 23:47:15,575 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:47:15,575 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:47:15,575 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:47:16,844 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:47:16,844 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:47:16,844 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:47:16,845 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:47:20,118 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:47:20,118 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:47:20,118 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:47:20,119 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:49:05,687 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28272) : lost connect
+2017-05-26 23:49:18,315 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28342) : connect successfully!
+2017-05-26 23:49:18,321 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:18,321 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:49:18,322 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:49:20,554 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:20,555 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:49:20,555 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:49:20,556 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:49:22,049 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:22,050 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:49:22,050 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:49:22,051 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:49:40,015 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28342) : lost connect
+2017-05-26 23:49:56,302 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28367) : connect successfully!
+2017-05-26 23:49:56,355 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:56,355 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:49:56,355 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:49:56,919 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:56,919 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:49:56,919 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:49:56,920 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:49:58,449 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:49:58,449 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:49:58,449 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:49:58,450 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:53:26,220 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28367) : lost connect
+2017-05-26 23:53:59,647 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28498) : connect successfully!
+2017-05-26 23:54:10,999 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28498) : lost connect
+2017-05-26 23:57:30,654 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28610) : connect successfully!
+2017-05-26 23:57:31,289 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:31,289 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-26 23:57:31,289 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-26 23:57:32,151 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:32,151 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:57:32,151 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:57:32,152 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:57:33,084 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:33,084 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:57:33,084 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:57:33,086 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:57:50,178 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:50,178 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:57:50,178 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:57:50,179 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:57:51,385 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:51,385 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:57:51,385 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:57:51,386 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:57:55,059 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:55,059 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:57:55,059 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:57:55,060 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:57:56,198 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:57:56,198 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:57:56,198 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:57:56,199 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:03,415 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:03,415 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:58:03,415 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:58:03,416 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:04,453 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:04,453 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:58:04,453 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-26 23:58:04,454 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:05,810 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:05,810 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:58:05,810 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:58:05,811 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:06,733 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:06,734 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:58:06,734 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:58:06,735 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:17,972 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:17,972 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-26 23:58:17,972 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-26 23:58:17,973 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:18,788 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-26 23:58:18,788 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-26 23:58:18,788 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-26 23:58:18,789 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-26 23:58:30,567 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28610) : lost connect
+2017-05-27 00:01:18,337 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28712) : connect successfully!
+2017-05-27 00:01:18,874 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:01:18,874 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 00:01:18,874 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 00:01:19,901 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:01:19,902 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:01:19,902 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 00:01:19,903 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:01:20,981 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:01:20,982 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:01:20,982 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 00:01:20,983 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:01:32,457 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28712) : lost connect
+2017-05-27 00:02:03,203 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28739) : connect successfully!
+2017-05-27 00:02:03,835 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:02:03,835 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 00:02:03,835 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 00:02:04,510 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:02:04,510 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:02:04,510 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:02:04,511 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:02:06,029 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:02:06,029 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:02:06,029 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:02:06,031 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:04:14,773 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:04:14,773 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:04:14,774 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:04:14,774 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:04:15,920 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:04:15,920 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:04:15,920 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:04:15,922 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:04:20,362 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28739) : lost connect
+2017-05-27 00:04:25,790 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28810) : connect successfully!
+2017-05-27 00:04:26,293 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:04:26,293 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 00:04:26,293 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 00:04:26,945 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:04:26,945 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:04:26,946 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:04:26,946 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:04:27,690 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:04:27,690 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:04:27,690 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:04:27,692 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:04:57,729 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-27 00:05:00,606 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 28840) : connect successfully!
+2017-05-27 00:05:02,385 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:02,385 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-27 00:05:02,385 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-27 00:05:02,397 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:05,317 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28841) : connect successfully!
+2017-05-27 00:05:06,491 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28842) : connect successfully!
+2017-05-27 00:05:07,322 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:07,323 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 00:05:07,323 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 00:05:07,961 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:07,961 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:05:07,961 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:05:07,962 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:09,464 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:09,465 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:05:09,465 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:05:09,466 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:21,630 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:21,630 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:05:21,630 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:05:21,632 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:24,855 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:24,855 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:05:24,855 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 00:05:24,857 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:28,504 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:28,504 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:05:28,505 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 00:05:28,506 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:29,587 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:29,587 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:05:29,587 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 00:05:29,589 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:40,239 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 28848) : connect successfully!
+2017-05-27 00:05:41,939 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:41,939 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-27 00:05:41,939 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-27 00:05:41,940 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:46,020 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:46,020 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 00:05:46,020 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 00:05:46,874 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:46,874 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 00:05:46,874 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 00:05:46,875 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:05:47,882 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 00:05:47,882 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 00:05:47,882 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 00:05:47,883 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 00:06:03,100 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28842) : lost connect
+2017-05-27 00:06:03,102 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 28841) : lost connect
+2017-05-27 06:08:51,727 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29666) : connect successfully!
+2017-05-27 06:08:52,663 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:08:52,663 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:08:52,663 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:08:53,350 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:08:53,350 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:08:53,350 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:08:53,354 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:08:55,447 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:08:55,447 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:08:55,447 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:08:55,449 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:09:04,484 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29666) : lost connect
+2017-05-27 06:09:25,176 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29706) : connect successfully!
+2017-05-27 06:09:28,831 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29708) : connect successfully!
+2017-05-27 06:09:29,456 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:09:29,456 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:09:29,456 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:09:30,099 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:09:30,099 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:09:30,100 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:09:30,101 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:09:31,191 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:09:31,191 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:09:31,191 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:09:31,193 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:09:37,398 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29706) : lost connect
+2017-05-27 06:09:37,398 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29708) : lost connect
+2017-05-27 06:10:10,244 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29765) : connect successfully!
+2017-05-27 06:10:10,811 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:10:10,812 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:10:10,812 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:10:11,465 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:10:11,465 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:10:11,465 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:10:11,466 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:10:12,523 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:10:12,523 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:10:12,523 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:10:12,525 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:10:36,834 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29765) : lost connect
+2017-05-27 06:11:07,949 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29815) : connect successfully!
+2017-05-27 06:11:08,659 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:08,660 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:11:08,660 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:11:09,415 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:09,415 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:11:09,415 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:11:09,416 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:10,477 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:10,477 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:11:10,478 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:11:10,479 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:26,798 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:26,798 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:11:26,798 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:11:26,799 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:27,746 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:27,746 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:11:27,746 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:11:27,747 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:42,100 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:42,100 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:11:42,100 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:11:42,101 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:43,765 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:43,765 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:11:43,765 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:11:43,767 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:48,423 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:48,423 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:11:48,424 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:11:48,425 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:50,141 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:50,141 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:11:50,141 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:11:50,142 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:51,815 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:51,815 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:11:51,815 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:11:51,816 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:11:52,904 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:11:52,904 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:11:52,904 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:11:52,905 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:12:08,564 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 29815) : lost connect
+2017-05-27 06:21:21,635 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30727) : connect successfully!
+2017-05-27 06:21:22,223 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:21:22,223 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:21:22,223 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:21:22,820 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:21:22,820 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:21:22,820 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:21:22,821 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:21:23,735 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:21:23,735 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:21:23,735 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:21:23,736 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:21:27,707 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:21:27,707 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:21:27,708 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:21:27,708 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:21:28,611 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:21:28,611 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:21:28,611 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:21:28,612 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:21:32,613 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30727) : lost connect
+2017-05-27 06:22:02,566 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30754) : connect successfully!
+2017-05-27 06:22:03,087 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:03,087 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:22:03,087 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:22:03,657 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:03,657 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:22:03,657 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:22:03,658 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:04,450 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:04,450 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:22:04,451 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:22:04,452 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:06,086 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:06,086 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:22:06,086 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:22:06,088 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:06,972 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:06,973 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:22:06,973 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:22:06,974 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:10,915 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:10,915 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:22:10,915 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:22:10,916 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:12,336 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:12,336 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:22:12,336 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:22:12,337 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:13,782 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:13,782 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:22:13,782 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:22:13,783 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:14,725 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:22:14,726 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:22:14,726 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:22:14,727 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:22:25,364 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30754) : lost connect
+2017-05-27 06:26:46,869 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30930) : connect successfully!
+2017-05-27 06:26:47,473 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:47,473 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:26:47,473 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:26:48,012 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:48,012 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:26:48,013 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:26:48,013 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:26:49,085 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:49,085 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:26:49,085 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:26:49,086 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:26:50,044 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:50,044 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:26:50,044 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:26:50,045 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:26:52,425 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:52,425 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:26:52,425 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:26:52,427 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:26:53,497 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:26:53,497 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:26:53,497 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:26:53,498 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:27:05,964 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 30930) : lost connect
+2017-05-27 06:30:43,694 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31236) : connect successfully!
+2017-05-27 06:30:44,296 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:44,296 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:30:44,296 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:30:44,902 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:44,902 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:30:44,902 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:30:44,903 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:30:45,726 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:45,726 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:30:45,726 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:30:45,727 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:30:49,250 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:49,250 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:30:49,250 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:30:49,251 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:30:50,907 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:50,907 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:30:50,907 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:30:50,908 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:30:58,952 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:30:58,953 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:30:58,953 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:30:58,954 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:31:08,620 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31236) : lost connect
+2017-05-27 06:33:16,727 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31507) : connect successfully!
+2017-05-27 06:33:17,296 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:33:17,296 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:33:17,296 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:33:17,872 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:33:17,872 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:33:17,872 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:33:17,873 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:33:18,833 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:33:18,833 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:33:18,833 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:33:18,834 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:33:21,134 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:33:21,134 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:33:21,134 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:33:21,135 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:23,497 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:23,497 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:36:23,497 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:36:25,455 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:25,456 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:36:25,456 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:36:25,457 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:27,117 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:27,117 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:27,117 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:36:27,119 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:31,116 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 28848) : lost connect
+2017-05-27 06:36:31,409 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31507) : lost connect
+2017-05-27 06:36:32,788 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 31785) : connect successfully!
+2017-05-27 06:36:33,774 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 28840) : lost connect
+2017-05-27 06:36:35,176 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 31790) : connect successfully!
+2017-05-27 06:36:36,775 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:36,775 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-27 06:36:36,775 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-27 06:36:36,777 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:43,818 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31792) : connect successfully!
+2017-05-27 06:36:44,388 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:44,388 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:36:44,388 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:36:44,929 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:44,929 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:36:44,929 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:36:44,930 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:45,775 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:45,775 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:45,775 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:36:45,776 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:47,015 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:47,016 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:47,016 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:36:47,017 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:49,201 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:49,201 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:49,202 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:36:49,203 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:50,616 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:50,616 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:50,616 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:36:50,617 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:55,103 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:36:55,103 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:36:55,104 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:36:55,105 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:36:59,683 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31792) : lost connect
+2017-05-27 06:38:45,227 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-27 06:38:47,630 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 31837) : connect successfully!
+2017-05-27 06:38:49,405 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:38:49,405 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-27 06:38:49,405 - Mainserverlog -log.py[line:26]-INFO -rdata:song\
+2017-05-27 06:38:49,413 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'TypeError'>: 'bool' object is not subscriptable
+F:\python35\lib\threading.py:914:_bootstrap_inner
+F:\python35\lib\threading.py:862:run
+F:\python35\lib\site-packages\twisted\_threads\_threadworker.py:46:work
+F:\python35\lib\site-packages\twisted\_threads\_team.py:190:doWork
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\python\threadpool.py:250:inContext
+F:\python35\lib\site-packages\twisted\python\threadpool.py:266:<lambda>
+F:\python35\lib\site-packages\twisted\python\context.py:122:callWithContext
+F:\python35\lib\site-packages\twisted\python\context.py:85:callWithContext
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:100:action
+]
+2017-05-27 06:38:56,315 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31844) : connect successfully!
+2017-05-27 06:38:56,868 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:38:56,869 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:38:56,869 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:38:58,826 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:38:58,827 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:38:58,827 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:39:06,509 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:06,509 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-27 06:39:06,510 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-27 06:39:06,511 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:39:09,105 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:09,105 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:39:09,106 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:39:09,726 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:09,726 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:39:09,726 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:39:09,727 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:39:10,833 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:10,833 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:39:10,833 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:39:10,835 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:39:11,907 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:11,907 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:39:11,907 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:39:11,909 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:39:13,841 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:13,841 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:39:13,841 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:39:13,843 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:39:17,258 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:39:17,258 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:39:17,259 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:39:17,261 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:42:26,123 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 31844) : lost connect
+2017-05-27 06:42:32,544 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32089) : connect successfully!
+2017-05-27 06:42:33,267 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:33,267 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:42:33,267 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:42:33,830 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:33,830 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:42:33,830 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:42:33,831 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:42:35,398 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:35,398 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:42:35,398 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:42:35,400 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:42:36,414 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:36,414 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:42:36,414 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:42:36,415 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:42:37,484 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:37,484 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:42:37,484 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:42:37,485 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:42:39,542 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:42:39,542 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:42:39,542 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:42:39,543 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:43:00,941 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32089) : lost connect
+2017-05-27 06:43:51,607 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32128) : connect successfully!
+2017-05-27 06:43:52,135 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:52,135 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:43:52,135 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:43:52,651 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:52,651 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:43:52,651 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:43:52,652 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:43:53,623 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:53,623 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:43:53,623 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:43:53,624 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:43:54,649 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:54,650 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:43:54,650 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:43:54,651 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:43:55,579 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:55,579 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:43:55,579 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:43:55,580 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:43:58,561 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:43:58,561 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:43:58,561 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:43:58,562 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:45:26,005 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32128) : lost connect
+2017-05-27 06:48:26,205 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32485) : connect successfully!
+2017-05-27 06:48:26,736 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:26,736 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:48:26,736 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:48:27,445 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:27,446 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:48:27,446 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:48:27,447 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:48:28,265 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:28,265 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:48:28,265 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:48:28,266 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:48:29,243 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:29,244 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:48:29,244 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:48:29,245 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:48:30,161 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:30,162 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:48:30,162 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:48:30,163 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:48:31,147 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:48:31,147 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:48:31,147 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:48:31,149 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:48:52,567 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32485) : lost connect
+2017-05-27 06:49:12,625 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32526) : connect successfully!
+2017-05-27 06:49:13,158 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:13,158 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:49:13,158 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:49:13,818 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:13,818 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:49:13,819 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:49:13,819 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:14,837 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:14,837 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:49:14,837 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:49:14,839 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:15,546 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:15,546 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:49:15,546 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:49:15,547 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:16,344 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:16,344 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:49:16,344 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:49:16,345 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:17,130 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:17,130 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:49:17,130 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:49:17,131 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:18,185 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:49:18,185 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:49:18,185 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:49:18,187 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:49:44,969 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32526) : lost connect
+2017-05-27 06:50:27,483 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32637) : connect successfully!
+2017-05-27 06:50:28,062 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:28,062 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:50:28,063 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:50:28,591 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:28,591 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:50:28,591 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:50:28,592 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:50:29,597 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:29,597 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:50:29,597 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:50:29,599 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:50:30,247 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:30,247 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:50:30,247 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:50:30,249 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:50:30,889 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:30,889 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:50:30,889 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:50:30,891 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:50:31,606 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:50:31,606 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:50:31,606 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:50:31,607 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:51:55,472 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32637) : lost connect
+2017-05-27 06:52:11,853 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32704) : connect successfully!
+2017-05-27 06:52:12,406 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:12,406 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-27 06:52:12,406 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-27 06:52:13,243 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:13,244 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-27 06:52:13,244 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:52:13,245 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:52:14,240 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:14,240 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:52:14,240 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-27 06:52:14,241 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:52:14,875 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:14,875 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:52:14,876 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-27 06:52:14,877 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:52:15,537 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:15,538 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:52:15,538 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-27 06:52:15,539 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 06:52:16,828 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-27 06:52:16,828 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-27 06:52:16,828 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-27 06:52:16,829 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-27 07:07:30,323 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.191.1', 32704) : lost connect
+2017-05-27 15:14:54,589 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 31837) : lost connect
+2017-05-28 22:40:35,621 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 22:40:41,225 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 5746) : connect successfully!
+2017-05-28 22:40:45,783 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:40:45,784 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 22:40:45,784 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 22:40:45,867 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:45:19,033 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 5825) : connect successfully!
+2017-05-28 22:45:23,786 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:45:23,786 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 22:45:23,786 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 22:45:24,653 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:45:24,653 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 22:45:24,653 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 22:45:24,655 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:45:25,946 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:45:25,947 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 22:45:25,947 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 22:45:25,949 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:45:31,961 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:45:31,962 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 22:45:31,963 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 22:45:31,965 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:45:33,442 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:45:33,442 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 22:45:33,442 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-28 22:45:33,444 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:45:34,791 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 5825) : lost connect
+2017-05-28 22:57:41,370 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 22:57:49,933 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6060) : connect successfully!
+2017-05-28 22:57:52,320 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:57:52,320 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 22:57:52,320 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 22:57:52,332 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 22:58:00,632 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 22:58:00,632 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 22:58:00,632 - Mainserverlog -log.py[line:26]-INFO -rdata:2.3
+2017-05-28 22:58:00,696 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:00:09,156 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:00:13,999 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6096) : connect successfully!
+2017-05-28 23:00:17,032 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:00:17,032 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:00:17,032 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:00:17,043 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:00:17,043 - Mainserverlog -log.py[line:35]-ERROR -[Failure instance: Traceback: <class 'AttributeError'>: 'getuid' object has no attribute 'uid'
+F:\python35\lib\site-packages\twisted\internet\base.py:1252:mainLoop
+F:\python35\lib\site-packages\twisted\internet\base.py:851:runUntilCurrent
+F:\python35\lib\site-packages\twisted\internet\defer.py:459:callback
+F:\python35\lib\site-packages\twisted\internet\defer.py:567:_startRunCallbacks
+--- <exception caught here> ---
+F:\python35\lib\site-packages\twisted\internet\defer.py:653:_runCallbacks
+F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:89:ret
+]
+2017-05-28 23:00:19,934 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:00:19,934 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:00:19,934 - Mainserverlog -log.py[line:26]-INFO -rdata:2.3
+2017-05-28 23:00:19,984 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:01:31,298 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6122) : connect successfully!
+2017-05-28 23:01:32,574 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:01:32,574 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:01:32,575 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:02:00,843 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6096) : lost connect
+2017-05-28 23:02:04,015 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:02:07,367 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6135) : connect successfully!
+2017-05-28 23:02:08,907 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:08,907 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:02:08,907 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:02:08,919 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:11,202 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:11,203 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:02:11,203 - Mainserverlog -log.py[line:26]-INFO -rdata:2.4
+2017-05-28 23:02:11,247 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:02:14,981 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6137) : connect successfully!
+2017-05-28 23:02:15,791 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:15,791 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:02:15,791 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:02:16,532 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:16,532 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:02:16,532 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:02:16,533 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:18,101 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:18,101 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:18,101 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:02:18,102 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:23,608 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6144) : connect successfully!
+2017-05-28 23:02:27,465 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:27,466 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:02:27,466 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-05-28 23:02:27,467 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:32,165 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:32,165 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:02:32,165 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:02:33,300 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:33,300 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:02:33,300 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:33,301 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:34,321 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:34,321 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:34,321 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:34,322 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:38,779 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6144) : lost connect
+2017-05-28 23:02:41,696 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:41,696 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:02:41,696 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:02:42,698 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:42,698 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:02:42,698 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:02:42,699 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:43,975 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:43,976 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:43,976 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:43,977 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:47,313 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:47,313 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:47,313 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:47,314 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:48,167 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:48,168 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:48,168 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:48,169 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:02:48,830 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:02:48,830 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:02:48,830 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:02:48,831 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:24,056 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:24,056 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:24,056 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:24,057 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:25,462 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:25,462 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:25,462 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:25,463 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:26,088 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:26,088 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:26,088 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:26,089 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:26,440 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:26,440 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:26,440 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:26,441 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:26,794 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:26,794 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:26,794 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:26,796 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:27,157 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:27,157 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:27,157 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:27,158 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:27,533 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:27,533 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:27,534 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:27,535 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:27,909 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:27,909 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:27,910 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:27,911 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:29,986 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6137) : lost connect
+2017-05-28 23:03:37,675 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6157) : connect successfully!
+2017-05-28 23:03:38,280 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:38,280 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:03:38,280 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:03:38,953 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:38,953 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:03:38,953 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:38,954 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:45,451 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:45,451 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:45,451 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:45,452 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:03:53,944 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:53,944 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:03:53,944 - Mainserverlog -log.py[line:26]-INFO -rdata:4.2
+2017-05-28 23:03:54,001 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:03:59,130 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:03:59,130 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:03:59,130 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:03:59,131 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:04:30,285 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:04:30,285 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:04:30,285 - Mainserverlog -log.py[line:26]-INFO -rdata:1.6
+2017-05-28 23:04:30,334 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:04:40,719 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:04:40,719 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:04:40,719 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:04:40,720 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:07:32,539 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:07:32,539 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:07:32,539 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:07:32,540 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:07:41,535 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:07:41,535 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:07:41,535 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:07:41,536 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:08:14,115 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6157) : lost connect
+2017-05-28 23:08:24,013 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6217) : connect successfully!
+2017-05-28 23:08:24,574 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:08:24,574 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:08:24,574 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:08:25,131 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:08:25,131 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:08:25,132 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:08:25,132 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:08:26,520 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:08:26,521 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:08:26,521 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:08:26,522 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:08:36,234 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:08:36,234 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:08:36,234 - Mainserverlog -log.py[line:26]-INFO -rdata:3.5
+2017-05-28 23:08:36,300 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:08:40,254 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:08:40,254 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:08:40,255 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:08:40,256 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:09:15,296 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:09:15,296 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:09:15,296 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:09:15,297 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:09:18,051 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:09:18,051 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:09:18,051 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:09:18,052 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:09:19,989 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:09:19,989 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:09:19,989 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:09:19,990 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:09:21,702 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:09:21,703 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:09:21,703 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:09:21,704 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:09:24,119 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:09:24,119 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:09:24,119 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:09:24,120 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:32,113 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:10:32,113 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:10:32,113 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:10:32,114 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:33,819 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:10:33,819 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:10:33,819 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:10:33,820 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:35,089 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:10:35,090 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:10:35,090 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:10:35,091 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:36,428 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:10:36,428 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:10:36,428 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-28 23:10:36,429 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:37,291 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:10:37,291 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:10:37,291 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-28 23:10:37,292 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:10:38,876 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 6217) : lost connect
+2017-05-28 23:33:56,115 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 7806) : connect successfully!
+2017-05-28 23:33:58,260 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:33:58,260 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:33:58,260 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:33:58,965 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:33:58,966 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:33:58,966 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:33:58,967 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:00,105 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:00,105 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:00,105 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:00,107 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:01,190 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:01,190 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:01,190 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:01,191 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:02,451 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:02,451 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:02,451 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:02,452 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:03,618 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:03,618 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:03,618 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:03,619 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:04,659 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:04,659 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:04,659 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:04,661 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:05,652 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:05,652 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:05,652 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:05,653 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:06,358 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:06,359 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:06,359 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:06,360 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:06,936 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:06,937 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:06,937 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:06,938 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:07,895 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:07,895 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:07,895 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:07,896 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:08,314 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:08,314 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:08,314 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:08,315 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:08,752 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:08,753 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:08,753 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:08,754 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:09,202 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:09,202 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:09,202 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:09,203 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:09,608 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:09,608 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:09,608 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:09,609 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:10,511 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:10,512 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:10,512 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:34:10,513 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:12,783 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:12,783 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:12,783 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-28 23:34:12,784 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:13,826 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:13,826 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:13,826 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-28 23:34:13,828 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:14,707 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:14,707 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:14,707 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:34:14,708 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:15,397 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:15,397 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:15,397 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:15,398 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:20,746 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:20,747 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:20,747 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:34:20,748 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:21,424 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:21,424 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:21,425 - Mainserverlog -log.py[line:26]-INFO -rdata:3
+2017-05-28 23:34:21,426 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:22,246 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:22,247 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:22,247 - Mainserverlog -log.py[line:26]-INFO -rdata:4
+2017-05-28 23:34:22,248 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:22,942 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:22,943 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:22,943 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:22,944 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:24,057 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:24,057 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:24,057 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:24,059 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:24,773 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:24,773 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:24,773 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:24,774 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:25,566 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:25,566 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:25,566 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:25,567 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:26,158 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:26,158 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:26,159 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:26,160 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:26,956 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:26,957 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:26,957 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:26,958 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:27,409 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:27,410 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:27,410 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:27,411 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:27,893 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:27,894 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:27,894 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:27,895 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:28,544 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:28,545 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:28,545 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:28,546 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:28,952 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:28,952 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:28,952 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:28,954 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:36,182 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:36,182 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:36,183 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:36,184 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:45,694 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:45,695 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:45,695 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:45,696 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:34:55,370 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:34:55,370 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:34:55,370 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:34:55,372 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:35:05,561 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:35:05,561 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:35:05,561 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:35:05,562 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:35:15,959 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:35:15,959 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:35:15,959 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:35:15,960 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:35:19,791 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:35:19,791 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:35:19,791 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:35:19,792 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:35:21,051 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:35:21,052 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:35:21,052 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:35:21,053 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:35:49,150 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:35:49,150 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:35:49,150 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:35:49,151 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:20,082 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:20,082 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:20,082 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:36:20,083 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:22,410 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:22,410 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:22,410 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:22,411 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:34,524 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:34,524 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:34,524 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:34,525 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:37,637 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:37,637 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:37,637 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:36:37,638 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:38,587 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:38,588 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:38,588 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:38,589 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:39,190 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:39,190 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:39,190 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:39,191 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:39,784 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:39,784 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:39,784 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:39,785 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:40,223 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:40,223 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:40,223 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:40,224 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:40,616 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:40,616 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:40,616 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:40,617 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:41,001 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:41,001 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:41,001 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:41,003 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:41,645 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:41,645 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:41,645 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:41,646 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:42,212 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:42,212 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:42,212 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:42,213 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:42,801 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:42,801 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:42,801 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:42,802 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:44,155 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:44,155 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:44,155 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:44,156 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:36:44,976 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:36:44,977 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:36:44,977 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:36:44,978 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:37:42,358 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:42,358 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:42,358 - Mainserverlog -log.py[line:26]-INFO -rdata:5.6
+2017-05-28 23:37:42,408 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:44,797 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:44,797 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:44,797 - Mainserverlog -log.py[line:26]-INFO -rdata:4.1
+2017-05-28 23:37:44,869 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:46,806 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:46,806 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:46,807 - Mainserverlog -log.py[line:26]-INFO -rdata:2.3
+2017-05-28 23:37:46,856 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:48,546 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:48,546 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:48,546 - Mainserverlog -log.py[line:26]-INFO -rdata:1.4
+2017-05-28 23:37:48,586 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:51,338 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:51,338 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:51,339 - Mainserverlog -log.py[line:26]-INFO -rdata:1.5
+2017-05-28 23:37:51,372 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:53,834 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:53,834 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:53,834 - Mainserverlog -log.py[line:26]-INFO -rdata:4.8
+2017-05-28 23:37:53,923 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:55,520 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:55,520 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:55,520 - Mainserverlog -log.py[line:26]-INFO -rdata:6.5
+2017-05-28 23:37:55,586 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:37:58,662 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:37:58,663 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:37:58,663 - Mainserverlog -log.py[line:26]-INFO -rdata:1.4
+2017-05-28 23:37:58,839 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:38:00,973 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:00,974 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:38:00,974 - Mainserverlog -log.py[line:26]-INFO -rdata:1.9
+2017-05-28 23:38:01,012 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:38:04,402 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:04,402 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:38:04,403 - Mainserverlog -log.py[line:26]-INFO -rdata:2.8
+2017-05-28 23:38:04,441 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:38:06,107 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:06,108 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:38:06,108 - Mainserverlog -log.py[line:26]-INFO -rdata:2.7
+2017-05-28 23:38:06,150 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:38:19,528 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:19,529 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:19,529 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:19,530 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:26,347 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:26,347 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:26,347 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:26,348 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:28,180 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:28,180 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:28,180 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:28,181 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:29,733 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:29,733 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:29,733 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:29,735 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:30,926 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:30,926 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:30,926 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:30,927 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:32,004 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:32,004 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:32,004 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:32,006 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:33,158 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:33,159 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:33,159 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:33,160 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:34,164 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:34,164 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:34,164 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:34,166 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:50,320 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:50,320 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:50,320 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:50,322 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:38:55,445 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:38:55,445 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:38:55,445 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:38:55,446 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:03,588 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:03,588 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:03,588 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:03,590 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:05,093 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:05,093 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:05,093 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:05,095 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:06,708 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:06,708 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:06,708 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:06,709 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:32,131 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:32,132 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:32,132 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:32,133 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:33,726 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:33,726 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:33,726 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:33,727 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:39:40,125 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:39:40,126 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:39:40,126 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:39:40,127 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:40:36,378 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:40:36,378 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:40:36,378 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:40:36,379 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:40:42,253 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:40:42,253 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:40:42,253 - Mainserverlog -log.py[line:26]-INFO -rdata:2
+2017-05-28 23:40:42,254 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:40:44,181 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:40:44,181 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:40:44,181 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:40:44,182 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:40:46,241 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:40:46,241 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:40:46,241 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:40:46,242 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:40:47,868 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 7806) : lost connect
+2017-05-28 23:40:51,342 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:40:55,040 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8154) : connect successfully!
+2017-05-28 23:40:57,900 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:40:57,900 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:40:57,901 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:40:57,912 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:41:08,667 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8167) : connect successfully!
+2017-05-28 23:41:09,156 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:41:09,156 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:41:09,156 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:41:09,682 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:41:09,682 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:41:09,683 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:41:09,684 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:41:10,640 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:41:10,641 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:41:10,641 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:41:10,642 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:44:25,833 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:44:27,884 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8393) : connect successfully!
+2017-05-28 23:44:29,398 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:29,399 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:44:29,399 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:44:29,408 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:44:32,921 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8398) : connect successfully!
+2017-05-28 23:44:33,512 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:33,512 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:44:33,512 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:44:34,074 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:34,074 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:44:34,074 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:44:34,075 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:44:35,227 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:35,227 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:44:35,227 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:44:35,229 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:44:42,563 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:42,563 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:44:42,563 - Mainserverlog -log.py[line:26]-INFO -rdata:8.5
+2017-05-28 23:44:42,620 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:44:45,226 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:44:45,226 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:44:45,226 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:44:45,227 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:45:20,767 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8398) : lost connect
+2017-05-28 23:46:59,976 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8458) : connect successfully!
+2017-05-28 23:47:00,538 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:47:00,538 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:47:00,539 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:47:01,326 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:47:01,326 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:47:01,326 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:47:01,327 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:47:02,485 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:47:02,485 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:47:02,485 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:47:02,487 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:47:38,486 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:47:38,487 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:47:38,487 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:47:38,488 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:48:30,334 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8393) : lost connect
+2017-05-28 23:48:32,074 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8499) : connect successfully!
+2017-05-28 23:48:37,122 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:48:37,122 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:48:37,122 - Mainserverlog -log.py[line:26]-INFO -rdata:1.0
+2017-05-28 23:48:37,123 - Mainserverlog -log.py[line:35]-ERROR -query wrong!
+2017-05-28 23:48:40,480 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:48:40,480 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:48:40,480 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:48:40,481 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:48:49,386 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:48:49,386 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:48:49,386 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:48:49,387 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:48:52,587 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:48:52,587 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:48:52,587 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:48:52,588 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:50:31,169 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:50:31,169 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:50:31,169 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:50:31,218 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:50:33,027 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:50:33,027 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:50:33,027 - Mainserverlog -log.py[line:26]-INFO -rdata:1.0
+2017-05-28 23:50:33,216 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:50:39,076 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:50:39,076 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:50:39,077 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:50:39,078 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:50:49,627 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8499) : lost connect
+2017-05-28 23:50:51,241 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8580) : connect successfully!
+2017-05-28 23:50:52,850 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:50:52,850 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:50:52,850 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:50:52,851 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:50:54,534 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:50:54,534 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:50:54,534 - Mainserverlog -log.py[line:26]-INFO -rdata:1.0
+2017-05-28 23:50:54,583 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:51:01,061 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:51:01,062 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:51:01,062 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:51:01,063 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:51:21,376 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:51:21,376 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:51:21,376 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:51:21,377 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:51:44,917 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:51:44,917 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:51:44,917 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:51:44,918 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:52:06,944 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8458) : lost connect
+2017-05-28 23:52:34,978 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:52:39,976 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8770) : connect successfully!
+2017-05-28 23:52:41,587 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:52:41,587 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:52:41,587 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:52:41,596 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:52:58,718 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 8808) : connect successfully!
+2017-05-28 23:52:59,182 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:52:59,183 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:52:59,183 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:52:59,745 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:52:59,745 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:52:59,745 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:52:59,746 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:00,865 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:00,865 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:00,865 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:00,866 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:09,605 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:09,605 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:09,605 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:09,606 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:13,882 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:13,882 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:53:13,882 - Mainserverlog -log.py[line:26]-INFO -rdata:2.5
+2017-05-28 23:53:13,948 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:53:16,685 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:16,685 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:16,685 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:16,686 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:22,836 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:22,837 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:22,837 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:22,838 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:24,063 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:24,064 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:24,064 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:24,065 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:25,453 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:25,453 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:25,453 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:25,454 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:40,277 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:40,278 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:40,278 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:40,279 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:47,272 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:47,272 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:47,273 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:47,274 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:49,320 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:49,320 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:49,320 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:49,322 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:53:50,241 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:53:50,241 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:53:50,241 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:53:50,242 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:54:08,449 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:54:08,450 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:54:08,450 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:54:08,451 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:09,968 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-28 23:55:13,061 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9030) : connect successfully!
+2017-05-28 23:55:14,651 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:14,652 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-28 23:55:14,652 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-28 23:55:14,662 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:17,983 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9041) : connect successfully!
+2017-05-28 23:55:18,765 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:18,766 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-28 23:55:18,766 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-28 23:55:19,465 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:19,465 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-28 23:55:19,465 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:19,466 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:20,801 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:20,801 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:20,801 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:20,803 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:27,951 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:27,951 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:55:27,951 - Mainserverlog -log.py[line:26]-INFO -rdata:6.5
+2017-05-28 23:55:27,986 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:55:30,873 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:30,873 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:30,873 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:30,874 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:32,053 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:32,053 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:32,053 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:32,054 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:33,880 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:33,880 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:33,880 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:33,881 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:34,947 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:34,947 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:34,947 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:34,948 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:35,786 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:35,786 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:35,786 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:35,788 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:55:47,878 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:47,878 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-28 23:55:47,879 - Mainserverlog -log.py[line:26]-INFO -rdata:1.2
+2017-05-28 23:55:47,945 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-28 23:55:49,947 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:55:49,947 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:55:49,947 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:55:49,948 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:56:10,969 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:56:10,969 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:56:10,970 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:56:10,971 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:56:12,600 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:56:12,600 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:56:12,600 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:56:12,601 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:56:13,505 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:56:13,506 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:56:13,506 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:56:13,507 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:56:16,113 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:56:16,113 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:56:16,114 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:56:16,115 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:56:18,326 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:56:18,326 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:56:18,326 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:56:18,328 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:29,667 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:29,667 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:29,668 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:29,669 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:30,197 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:30,197 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:30,197 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:30,199 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:30,547 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:30,547 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:30,547 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:30,549 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:30,899 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:30,899 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:30,899 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:30,901 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:31,293 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:31,293 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:31,293 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:31,295 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:31,687 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:31,687 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:31,687 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:31,689 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:32,091 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:32,091 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:32,091 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:32,093 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:32,500 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:32,500 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:32,500 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:32,502 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:34,143 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:34,143 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:34,143 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:34,144 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-28 23:59:48,332 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-28 23:59:48,332 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-28 23:59:48,332 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-28 23:59:48,333 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:00:10,773 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:00:10,773 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:00:10,773 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:00:10,774 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:00:11,742 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:00:11,742 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:00:11,743 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:00:11,744 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:00:12,633 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:00:12,633 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:00:12,634 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:00:12,635 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:00:14,919 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:00:14,919 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:00:14,919 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:00:14,920 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:00:19,081 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:00:19,082 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:00:19,082 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:00:19,083 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:06,969 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:06,970 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:06,970 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:06,971 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:07,711 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:07,711 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:07,712 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:07,713 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:08,225 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:08,226 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:08,226 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:08,227 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:09,070 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:09,070 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:09,070 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:09,072 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:09,799 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:09,800 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:09,800 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:09,801 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:10,535 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:10,535 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:10,535 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:10,537 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:11,200 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:11,201 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:11,201 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:11,202 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:12,076 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:12,076 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:12,076 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:12,078 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:13,625 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9041) : lost connect
+2017-05-29 00:03:24,857 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-05-29 00:03:28,939 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9879) : connect successfully!
+2017-05-29 00:03:30,519 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:30,519 - Mainserverlog -log.py[line:26]-INFO -99
+2017-05-29 00:03:30,519 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-05-29 00:03:30,530 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:40,909 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9903) : connect successfully!
+2017-05-29 00:03:41,429 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:41,429 - Mainserverlog -log.py[line:26]-INFO -98
+2017-05-29 00:03:41,429 - Mainserverlog -log.py[line:26]-INFO -rdata:hello
+2017-05-29 00:03:42,005 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:42,005 - Mainserverlog -log.py[line:26]-INFO -17
+2017-05-29 00:03:42,005 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:42,006 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:42,989 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:42,989 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:42,989 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:42,991 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:52,720 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:52,720 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:52,720 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:52,721 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:53,407 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:53,407 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:53,407 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:53,408 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:53,842 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:53,842 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:53,842 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:53,843 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:54,193 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:54,194 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:54,194 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:54,195 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:54,531 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:54,531 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:54,531 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:54,532 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:03:54,867 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:03:54,867 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:03:54,867 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:03:54,868 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:07,366 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:07,366 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-29 00:04:07,366 - Mainserverlog -log.py[line:26]-INFO -rdata:4.6
+2017-05-29 00:04:07,413 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-29 00:04:09,937 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:09,937 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:09,937 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:09,939 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:10,730 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:10,731 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:10,731 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:10,732 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:11,178 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:11,178 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:11,178 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:11,179 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:11,542 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:11,542 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:11,542 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:11,543 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:11,917 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:11,917 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:11,918 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:11,919 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:12,288 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:12,289 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:12,289 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:12,290 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:04:50,439 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:50,440 - Mainserverlog -log.py[line:26]-INFO -1
+2017-05-29 00:04:50,440 - Mainserverlog -log.py[line:26]-INFO -rdata:7.5
+2017-05-29 00:04:50,492 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-05-29 00:04:52,439 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:04:52,439 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:04:52,439 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:04:52,441 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:11:17,345 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-05-29 00:11:17,346 - Mainserverlog -log.py[line:26]-INFO -55
+2017-05-29 00:11:17,346 - Mainserverlog -log.py[line:26]-INFO -rdata:1
+2017-05-29 00:11:17,347 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-05-29 00:11:18,603 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9903) : lost connect
+2017-05-29 07:14:48,208 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 9879) : lost connect

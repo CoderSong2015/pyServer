@@ -38,8 +38,9 @@ class identificationHandle(baseHandle.baseDataHandle):
         print(failure)
 
 class dataHandle(baseHandle.baseDataHandle):
-    def __init__(self, data, call_back):
-        self.call_back = call_back
+    def __init__(self, data, se):
+        self.se = se
+        self.call_back = se.transport
         self.data = data
 
     def ret(self, data):
@@ -51,7 +52,7 @@ class dataHandle(baseHandle.baseDataHandle):
         conn = Qmysql.get()
         #Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
 
-        insertdata = 'insert into message(uid,message,data) values(%d,\'%s\',\'%s\''')'%(UsrLoginStatue[self.call_back],data.decode(),Mglobal.Systime.getmysqltime())
+        insertdata = 'insert into message(uid,message,data,ssid) values(%d,\'%s\',\'%s\',1)'%(self.se.uid,data.decode(),Mglobal.Systime.getmysqltime())
         print(insertdata)
         ans = conn._insert(insertdata)
 
@@ -83,9 +84,9 @@ class getuid(baseHandle.baseDataHandle):
     def ret(self, re):
         #self.call_back.write(data)
         if re != Define['ERRORSQL']:
-           self.uid = re[0]
+           self.se.uid = re[0]
            print(re[0])
-           Mglobal.UsrLoginStatue[self.uid] = 1
+           Mglobal.UsrLoginStatue[self.se.uid] = 1
         return 0
 
     def action(self, data):
@@ -184,19 +185,20 @@ class getssdata(baseHandle.baseDataHandle):
            print('num = %d'%num)
            print(ret)
            ans = ''
+           ans = ans + '%d;'%num
            for i in range(num):
                da = ret[i]
                ssid = da[0]
                ans = ans + '%s;'%ssid
            print(ans)
-           #self.call_back.write(ans.encode())
+           self.call_back.write(ans.encode())
         return 0
 
     def action(self, data):
         conn = Qmysql.get()
        # Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
         print('do action..')
-        insertdata = 'select message  from message where uid =%s && ssid = %s order by data limit 0,15'%(self.se.nowid,data.decode())
+        insertdata = 'select SQL_NO_CACHE message  from message where uid =%s && ssid = %s order by data desc limit 0,15'%(self.se.nowid,data.decode())
         print(insertdata)
         ans = conn._queryall(insertdata)
         print(ans)
