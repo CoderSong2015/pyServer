@@ -11,7 +11,7 @@ Qmysql = mysqlqueue.mysql_queue(config.mysqlMaxHandle, config.Config_mysql)
 rc4Flag = 12345
 rc5Flag = 12345
 
-handlelist = [0,1,2,3,4,17,55,99,98]
+handlelist = [0,1,2,3,4,11,17,55,99,98]
 
 UsrLoginStatue = {}
 
@@ -28,6 +28,7 @@ Define['ERRORTYPE'] = -2
 Define['ERRORPARA']  = -3
 Define['ERRORSQL']  = -4
 Define['RECVDATA'] = 1
+Define['NUMDATA'] = 11
 Define['onlineSS'] = 17
 Define['SSDATA'] = 55
 Define['ACCOUNT'] = 99

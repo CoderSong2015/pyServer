@@ -198,7 +198,7 @@ class getssdata(baseHandle.baseDataHandle):
         conn = Qmysql.get()
        # Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
         print('do action..')
-        insertdata = 'select SQL_NO_CACHE message  from message where uid =%s && ssid = %s order by data desc limit 0,15'%(self.se.nowid,data.decode())
+        insertdata = 'select SQL_NO_CACHE message  from message where uid =%s && ssid = %s order by data desc limit 0,%d'%(self.se.nowid,data.decode(),self.se.shownum)
         print(insertdata)
         ans = conn._queryall(insertdata)
         print(ans)

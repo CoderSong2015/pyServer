@@ -16,6 +16,7 @@ class MProtocol(LineReceiver):
     databuf = bytes()
     uid = 0
     nowid = 0
+    shownum = 15
     def connectionMade(self):
 
         ipinfo = self.transport.getPeer()
@@ -84,6 +85,12 @@ class MProtocol(LineReceiver):
             print("getuid")
             han = dt.getuid(rdata,self)
             re = han.handle()
+
+        if command_id == Define['NUMDATA']:
+            print(rdata)
+            tnum = int(rdata)
+            if tnum > 14:
+                self.shownum = tnum
         if command_id == Define['Online']:
             line = ''
             flag = 0

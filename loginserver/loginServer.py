@@ -7,6 +7,7 @@ from socketserver import ThreadingMixIn
 from loginserver.Lconfig import hostname,hostport
 from loginserver.Lgloble import Loginkey
 from loginserver.Lgloble import systime
+from loginserver.Lconfig import Mainhostname
 class handleThread():
     def __init__(self,arg):
         #super(handleThread, self).__init__()
@@ -116,7 +117,7 @@ class handleThread_Post:
             self.se.send_response(200)
             self.se.send_header("Content-type", "src")
             self.se.end_headers()
-            self.se.wfile.write(bytes("192.168.191.1:8889", "utf-8"))
+            self.se.wfile.write(bytes(Mainhostname, "utf-8"))
 
     def handleDATA(self,data):
         kv = data.split(':')
