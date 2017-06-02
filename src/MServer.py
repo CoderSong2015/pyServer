@@ -73,7 +73,10 @@ class MProtocol(LineReceiver):
         #self.transport.write(rdata.encode())
 
         if command_id == Define['RECVDATA']:
-            testh = dt.dataHandle(rdata,self)
+            ssid = rdata.split(";")[0]
+            ssdata = rdata.split(";")[1]
+            print('ssid:',ssid)
+            testh = dt.dataHandle(ssid,ssdata,self)
             testh.handle()
         if command_id == 2:
             self.decryptdata(rdata)

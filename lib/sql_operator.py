@@ -31,7 +31,6 @@ class sql_operate():
             except:
                 print('connect err')
                 self.dcur = 'connect err'
-                return None
             #self.dcur = conn.cursor(mysql_module.cursors.DictCursor) #返回字典cursor（K-V存储结构，python中最重要的类型之一）)
             self.dcur = conn.cursor()
         else:

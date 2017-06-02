@@ -38,10 +38,11 @@ class identificationHandle(baseHandle.baseDataHandle):
         print(failure)
 
 class dataHandle(baseHandle.baseDataHandle):
-    def __init__(self, data, se):
+    def __init__(self, ssid,data, se):
         self.se = se
         self.call_back = se.transport
         self.data = data
+        self.ssid = ssid
 
     def ret(self, data):
         #self.call_back.write(data)
@@ -52,7 +53,7 @@ class dataHandle(baseHandle.baseDataHandle):
         conn = Qmysql.get()
         #Mloger.info('callback is %s'%UsrLoginStatue[self.call_back])
 
-        insertdata = 'insert into message(uid,message,data,ssid) values(%d,\'%s\',\'%s\',1)'%(self.se.uid,data.decode(),Mglobal.Systime.getmysqltime())
+        insertdata = 'insert into message(uid,message,data,ssid) values(%d,\'%s\',\'%s\',%s)'%(self.se.uid,data.decode(),Mglobal.Systime.getmysqltime(),self.ssid)
         print(insertdata)
         ans = conn._insert(insertdata)
 

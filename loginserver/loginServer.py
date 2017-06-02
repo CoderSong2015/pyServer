@@ -100,7 +100,8 @@ class handleThread_Post:
 
         re = self.Obj_mysql._query(sqls)
 
-        print(re)
+        uid = (re[0])[0]
+        print('uid:',uid)
         if(re == False):
             return Define['ERRORSQL']
         if(re[0] == None):
