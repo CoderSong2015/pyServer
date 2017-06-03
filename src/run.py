@@ -5,8 +5,11 @@ from src import mysqlqueue
 from src import config
 from twisted.internet import reactor
 from src.MServer import MFactory
+from src.linkLogin import sendStatus
+
 if __name__=='__main__':
     init.Minit()
+    reactor.callInThread(sendStatus)
     reactor.listenTCP(8889, MFactory(3))
     reactor.run()
 

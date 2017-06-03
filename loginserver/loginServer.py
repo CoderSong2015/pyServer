@@ -24,12 +24,19 @@ class handleThread():
                 self.se.send_header("Content-type", "kkk")
                 self.se.end_headers()
                 self.se.wfile.write(bytes("ERRORPARA", "utf-8"))
+            if re == Define['ERRORTYPE']:
+                self.se.send_response(200)
+                self.se.send_header("Content-type", "kkk")
+                self.se.end_headers()
+                self.se.wfile.write(bytes("ERRORTYPE", "utf-8"))
 
 
     def handleObj(self,se,kv):
 
         print(kv)
+        print(kv['type'])
         if kv['type'] not in handleObj:
+            print('no:',kv['type'])
             return Define['ERRORTYPE']
 
         if kv['type'] == 'login':
@@ -41,7 +48,20 @@ class handleThread():
         if kv['type'] == 'pubkey':
             return self.returnPubkey(se,kv)
 
+        if kv['type'] == 'resgister':
+            print(kv)
 
+            return self.resgiSer(se,kv['addr'])
+
+
+    def resgiSer(self,se,addr):
+        se.serverStatus['servernum'] = se.serverStatus['servernum'] + 1
+        se.serverStatus[se.serverStatus['servernum']] = [0,addr]
+
+        se.send_response(200)
+        se.send_header("Content-type", "src")
+        se.end_headers()
+        se.wfile.write(bytes(str(se.serverStatus['servernum']), "utf-8"))
 
     def returnPubkey(self,se,kv):
         self.se.send_response(200)
@@ -93,7 +113,16 @@ class handleThread_Post:
         self.Obj_mysql = sql_operate(mysql_conf)
     def run(self):
         kv = self.handleDATA(self.data)
-        self.checkaccount(kv)
+        print(kv)
+        if kv[0] == 'cliOnline':
+            self.se.serverStatus[int(kv[1])][0] = int(kv[2])
+            print(self.se.serverStatus[int(kv[1])][1])
+            self.se.send_response(200)
+            self.se.send_header("Content-type", "src")
+            self.se.end_headers()
+            self.se.wfile.write(bytes("update", "utf-8"))
+        else:
+            self.checkaccount(kv)
 
     def checkaccount(self,kv):
         sqls = "select uid from user where usrname = \'%s\' && passwd = \'%s\'" % (kv[0], kv[1])
@@ -118,7 +147,25 @@ class handleThread_Post:
             self.se.send_response(200)
             self.se.send_header("Content-type", "src")
             self.se.end_headers()
-            self.se.wfile.write(bytes(Mainhostname, "utf-8"))
+
+            host = self.choseServer(self.se)
+            self.se.wfile.write(bytes(host, "utf-8"))
+
+    def choseServer(self,se):
+
+            min = 1000
+            addr = ''
+            flag = 0
+            for k,v in se.serverStatus.items():
+                if not k == 'servernum':
+                    if v[0] < min:
+                        flag = 1
+                        min = v[0]
+                        addr = v[1]
+            if flag == 1:
+                return addr
+
+            return "noserver"
 
     def handleDATA(self,data):
         kv = data.split(':')
@@ -155,6 +202,10 @@ class Posthandle():
         pass
 
 class Myhttpserver(BaseHTTPRequestHandler):
+
+    serverStatus = {}
+
+    serverStatus['servernum'] = 0
     def do_GET(self):
         #handleUrl(self)
         print(self)

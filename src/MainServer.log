@@ -38413,3 +38413,966 @@ F:\pycharm\pycharmWorkplace\PyServer\pyServer\src\datahandle.py:152:action
 2017-05-30 09:12:40,204 - Mainserverlog -log.py[line:26]-INFO -rdata:1.401
 2017-05-30 09:12:40,257 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
 2017-06-02 21:39:22,807 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:52:36,032 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:53:20,055 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:54:42,459 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:54:56,936 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 45549) : connect successfully!
+2017-06-02 21:54:59,318 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 21:54:59,318 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 21:54:59,318 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-02 21:54:59,320 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 21:55:40,664 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:56:13,696 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:56:22,018 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 45612) : connect successfully!
+2017-06-02 21:56:23,505 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 21:56:23,505 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 21:56:23,505 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-02 21:56:23,506 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 21:56:29,751 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 45619) : connect successfully!
+2017-06-02 21:56:33,420 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 21:56:33,420 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 21:56:33,420 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-06-02 21:56:33,421 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 21:59:40,083 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 21:59:43,929 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 45704) : connect successfully!
+2017-06-02 21:59:45,221 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 21:59:45,221 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 21:59:45,221 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-02 21:59:45,222 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 21:59:49,088 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 45712) : connect successfully!
+2017-06-02 21:59:50,380 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 21:59:50,380 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 21:59:50,380 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-06-02 21:59:50,381 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 22:35:34,764 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:35:47,078 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:38:55,405 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:39:46,803 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:41:20,326 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:42:22,690 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 46983) : connect successfully!
+2017-06-02 22:42:23,676 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 46983) : lost connect
+2017-06-02 22:42:29,051 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:43:19,504 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:46:58,212 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:47:12,133 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:50:35,805 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:51:53,856 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 22:52:10,672 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 47366) : connect successfully!
+2017-06-02 22:52:12,589 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:52:12,589 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 22:52:12,590 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-02 22:52:12,591 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 22:52:24,055 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 47375) : connect successfully!
+2017-06-02 22:52:25,548 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:52:25,548 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 22:52:25,548 - Mainserverlog -log.py[line:26]-INFO -rdata:hao
+2017-06-02 22:52:25,549 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 22:54:40,013 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:40,013 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:40,013 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.022
+2017-06-02 22:54:40,079 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:41,014 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:41,014 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:41,014 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.046
+2017-06-02 22:54:41,077 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:42,015 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:42,016 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:42,016 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.238
+2017-06-02 22:54:42,061 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:43,019 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:43,019 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:43,019 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.766
+2017-06-02 22:54:43,074 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:44,020 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:44,020 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:44,020 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.364
+2017-06-02 22:54:44,080 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:45,021 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:45,021 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:45,021 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.945
+2017-06-02 22:54:45,082 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:46,023 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:46,023 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:46,023 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.667
+2017-06-02 22:54:46,077 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:47,024 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:47,024 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:47,024 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.238
+2017-06-02 22:54:47,079 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:48,025 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:48,025 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:48,025 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.411
+2017-06-02 22:54:48,085 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:49,026 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:49,026 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:49,026 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.172
+2017-06-02 22:54:49,073 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:50,027 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:50,028 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:50,028 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.008
+2017-06-02 22:54:50,074 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:51,028 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:51,029 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:51,029 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.706
+2017-06-02 22:54:51,070 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:52,029 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:52,029 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:52,030 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.785
+2017-06-02 22:54:52,071 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:53,030 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:53,031 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:53,031 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.561
+2017-06-02 22:54:53,078 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:54,032 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:54,032 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:54,032 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.934
+2017-06-02 22:54:54,068 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:55,033 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:55,033 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:55,033 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.579
+2017-06-02 22:54:55,086 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:56,034 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:56,034 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:56,034 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.718
+2017-06-02 22:54:56,054 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:57,035 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:57,036 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:57,036 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.463
+2017-06-02 22:54:57,075 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:58,037 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:58,037 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:58,037 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.505
+2017-06-02 22:54:58,081 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:54:59,038 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:54:59,039 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:54:59,039 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.069
+2017-06-02 22:54:59,079 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:00,039 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:00,040 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:00,040 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.311
+2017-06-02 22:55:00,081 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:01,041 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:01,041 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:01,041 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.728
+2017-06-02 22:55:01,080 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:02,043 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:02,043 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:02,043 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.079
+2017-06-02 22:55:02,097 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:03,044 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:03,044 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:03,045 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.81
+2017-06-02 22:55:03,095 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:04,046 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:04,047 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:04,047 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.974
+2017-06-02 22:55:04,108 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:05,048 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:05,048 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:05,048 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.883
+2017-06-02 22:55:05,085 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:06,049 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:06,049 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:06,050 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.308
+2017-06-02 22:55:06,091 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:07,050 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:07,051 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:07,051 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.178
+2017-06-02 22:55:07,093 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:08,052 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:08,053 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:08,053 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.451
+2017-06-02 22:55:08,091 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:09,055 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:09,055 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:09,055 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.047
+2017-06-02 22:55:09,098 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:10,055 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:10,055 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:10,055 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.918
+2017-06-02 22:55:10,099 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:11,056 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:11,056 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:11,056 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.1
+2017-06-02 22:55:11,109 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:12,057 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:12,057 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:12,057 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.903
+2017-06-02 22:55:12,096 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:13,059 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:13,059 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:13,059 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.931
+2017-06-02 22:55:13,106 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:14,060 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:14,060 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:14,060 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.878
+2017-06-02 22:55:14,112 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:15,061 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:15,061 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:15,062 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.672
+2017-06-02 22:55:15,114 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:16,062 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:16,063 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:16,063 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.751
+2017-06-02 22:55:16,090 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:17,063 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:17,064 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:17,064 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.901
+2017-06-02 22:55:17,111 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:18,065 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:18,065 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:18,065 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.347
+2017-06-02 22:55:18,109 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:19,066 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:19,066 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:19,066 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.213
+2017-06-02 22:55:19,105 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:20,067 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:20,068 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:20,068 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.889
+2017-06-02 22:55:20,106 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:21,068 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:21,069 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:21,069 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.465
+2017-06-02 22:55:21,113 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:22,070 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:22,070 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:22,070 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.45
+2017-06-02 22:55:22,122 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:23,071 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:23,071 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:23,072 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.981
+2017-06-02 22:55:23,113 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:24,073 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:24,073 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:24,073 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.03
+2017-06-02 22:55:24,119 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:25,074 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:25,075 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:25,075 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.759
+2017-06-02 22:55:25,121 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:26,076 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:26,076 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:26,076 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.444
+2017-06-02 22:55:26,115 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:27,077 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:27,078 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:27,078 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.734
+2017-06-02 22:55:27,117 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:28,078 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:28,079 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:28,079 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.592
+2017-06-02 22:55:28,124 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:29,079 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:29,080 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:29,080 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.036
+2017-06-02 22:55:29,181 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:30,081 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:30,081 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:30,081 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.549
+2017-06-02 22:55:30,135 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:31,082 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:31,082 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:31,082 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.498
+2017-06-02 22:55:31,123 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:32,084 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:32,084 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:32,084 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.783
+2017-06-02 22:55:32,121 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:33,085 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:33,085 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:33,085 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.838
+2017-06-02 22:55:33,142 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:34,086 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:34,087 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:34,087 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.783
+2017-06-02 22:55:34,140 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:35,088 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:35,088 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:35,088 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.005
+2017-06-02 22:55:35,138 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:36,089 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:36,089 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:36,089 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.298
+2017-06-02 22:55:36,134 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:37,090 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:37,090 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:37,090 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.836
+2017-06-02 22:55:37,144 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:38,091 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:38,092 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:38,092 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.366
+2017-06-02 22:55:38,123 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:39,093 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:39,093 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:39,093 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.483
+2017-06-02 22:55:39,163 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:40,094 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:40,095 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:40,095 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.446
+2017-06-02 22:55:40,142 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:41,096 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:41,096 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:41,096 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.78
+2017-06-02 22:55:41,141 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:42,097 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:42,097 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:42,097 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.844
+2017-06-02 22:55:42,128 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:43,098 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:43,098 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:43,098 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.369
+2017-06-02 22:55:43,145 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:44,099 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:44,100 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:44,100 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.153
+2017-06-02 22:55:44,136 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:45,100 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:45,101 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:45,101 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.924
+2017-06-02 22:55:45,153 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:46,102 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:46,102 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:46,102 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.99
+2017-06-02 22:55:46,141 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:47,103 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:47,104 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:47,104 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.477
+2017-06-02 22:55:47,143 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:48,104 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:48,105 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:48,105 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.566
+2017-06-02 22:55:48,152 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:49,106 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:49,106 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:49,106 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.384
+2017-06-02 22:55:49,162 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:50,107 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:50,108 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:50,108 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.259
+2017-06-02 22:55:50,149 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:51,108 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:51,109 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:51,109 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.573
+2017-06-02 22:55:51,155 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:52,110 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:52,110 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:52,110 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.368
+2017-06-02 22:55:52,135 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:53,111 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:53,112 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:53,112 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.965
+2017-06-02 22:55:53,156 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:54,112 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:54,113 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:54,113 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.988
+2017-06-02 22:55:54,154 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:55,113 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:55,114 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:55,114 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.023
+2017-06-02 22:55:55,160 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:56,115 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:56,115 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:56,115 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.479
+2017-06-02 22:55:56,151 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:57,116 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:57,116 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:57,116 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.176
+2017-06-02 22:55:57,150 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:58,117 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:58,117 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:58,118 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.131
+2017-06-02 22:55:58,155 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:55:59,119 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:55:59,119 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:55:59,119 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.983
+2017-06-02 22:55:59,158 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:00,121 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:00,121 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:00,121 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.378
+2017-06-02 22:56:00,174 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:01,122 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:01,122 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:01,122 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.831
+2017-06-02 22:56:01,155 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:02,123 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:02,123 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:02,123 - Mainserverlog -log.py[line:26]-INFO -rdata:2;3.057
+2017-06-02 22:56:02,153 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:03,124 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:03,124 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:03,124 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.19
+2017-06-02 22:56:03,173 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:04,125 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:04,125 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:04,125 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.122
+2017-06-02 22:56:04,183 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:05,126 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:05,127 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:05,127 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.916
+2017-06-02 22:56:05,167 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:06,127 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:06,128 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:06,128 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.712
+2017-06-02 22:56:06,169 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:07,128 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:07,129 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:07,129 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.538
+2017-06-02 22:56:07,167 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:08,129 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:08,130 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:08,130 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.245
+2017-06-02 22:56:08,199 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:09,131 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:09,131 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:09,131 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.758
+2017-06-02 22:56:09,172 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:10,133 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:10,134 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:10,134 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.962
+2017-06-02 22:56:10,174 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:11,134 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:11,134 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:11,134 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.265
+2017-06-02 22:56:11,184 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:12,135 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:12,135 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:12,135 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.125
+2017-06-02 22:56:12,171 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:13,136 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:13,136 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:13,137 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.898
+2017-06-02 22:56:13,177 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:14,138 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:14,138 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:14,138 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.079
+2017-06-02 22:56:14,179 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:15,139 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:15,140 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:15,140 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.155
+2017-06-02 22:56:15,177 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:16,140 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:16,141 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:16,141 - Mainserverlog -log.py[line:26]-INFO -rdata:2;0.493
+2017-06-02 22:56:16,183 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:17,141 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:17,141 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:17,142 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.849
+2017-06-02 22:56:17,163 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:18,143 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:18,143 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:18,143 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.611
+2017-06-02 22:56:18,195 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 22:56:19,144 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 22:56:19,145 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-02 22:56:19,145 - Mainserverlog -log.py[line:26]-INFO -rdata:2;2.935
+2017-06-02 22:56:19,194 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-02 23:05:31,354 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 23:07:57,940 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 23:08:41,811 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-02 23:08:54,459 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '127.0.0.1', 48016) : connect successfully!
+2017-06-02 23:08:56,121 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-02 23:08:56,122 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-02 23:08:56,122 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-02 23:08:56,123 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-02 23:22:03,253 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-03 07:43:25,173 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-03 07:44:15,517 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-03 07:46:49,463 - Mainserverlog -log.py[line:26]-INFO -reactor start...ok!
+2017-06-03 07:47:05,650 - Mainserverlog -log.py[line:26]-INFO -ip:IPv4Address(TCP, '192.168.155.2', 34210) : connect successfully!
+2017-06-03 07:47:11,827 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:11,827 - Mainserverlog -log.py[line:26]-INFO -99
+2017-06-03 07:47:11,827 - Mainserverlog -log.py[line:26]-INFO -rdata:song
+2017-06-03 07:47:11,829 - Mainserverlog -log.py[line:26]-INFO -select  ok!
+2017-06-03 07:47:16,769 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:16,769 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:16,769 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:16,834 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:18,779 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:18,779 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:18,779 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:18,830 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:20,789 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:20,790 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:20,790 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:20,824 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:22,800 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:22,800 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:22,800 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:22,868 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:24,810 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:24,810 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:24,810 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:24,855 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:26,847 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:26,847 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:26,847 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:26,903 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:28,831 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:28,831 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:28,831 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:28,928 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:30,841 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:30,841 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:30,841 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:30,978 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:32,854 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:32,854 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:32,855 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:32,904 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:34,862 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:34,863 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:34,863 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:34,917 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:36,873 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:36,873 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:36,873 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:36,922 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:38,883 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:38,883 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:38,883 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:38,940 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:40,894 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:40,894 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:40,895 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:40,949 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:42,906 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:42,906 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:42,906 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:42,956 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:44,915 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:44,915 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:44,915 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:44,964 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:46,926 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:46,926 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:46,926 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:46,973 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:48,935 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:48,936 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:48,936 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:48,991 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:50,947 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:50,947 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:50,947 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:50,999 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:52,958 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:52,958 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:52,958 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:53,008 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:54,968 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:54,968 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:54,969 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:55,016 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:56,977 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:56,978 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:56,978 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:57,024 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:47:58,989 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:47:58,989 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:47:58,989 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:47:59,054 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:01,000 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:01,000 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:01,000 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:01,040 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:03,009 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:03,009 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:03,009 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:03,040 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:05,019 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:05,019 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:05,020 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:05,059 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:07,029 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:07,029 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:07,030 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:07,098 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:09,041 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:09,041 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:09,041 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:09,076 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:11,051 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:11,051 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:11,051 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:11,084 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:13,061 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:13,061 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:13,061 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:13,091 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:15,071 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:15,072 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:15,072 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:15,111 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:17,082 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:17,082 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:17,083 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:17,119 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:19,092 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:19,093 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:19,093 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:19,171 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:21,104 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:21,104 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:21,104 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:21,368 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:23,114 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:23,114 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:23,114 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:23,165 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:25,124 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:25,124 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:25,124 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:25,340 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:27,134 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:27,134 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:27,135 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:27,181 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:29,145 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:29,145 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:29,145 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:29,197 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:31,155 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:31,156 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:31,156 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:31,231 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:33,166 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:33,167 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:33,167 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:33,239 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:35,176 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:35,176 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:35,176 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:35,270 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:37,186 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:37,186 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:37,186 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:37,221 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:39,196 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:39,196 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:39,196 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:39,229 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:41,207 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:41,207 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:41,207 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:41,338 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:43,217 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:43,217 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:43,218 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:43,279 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:45,228 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:45,228 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:45,228 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:45,342 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:47,239 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:47,239 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:47,239 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:47,302 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:49,249 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:49,250 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:49,250 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:49,303 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:51,259 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:51,259 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:51,259 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:51,310 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:53,271 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:53,272 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:53,272 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:53,330 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:55,280 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:55,280 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:55,280 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:55,337 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:57,291 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:57,291 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:57,291 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:57,346 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:48:59,301 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:48:59,301 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:48:59,301 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:48:59,354 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:01,311 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:01,311 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:01,312 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:01,362 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:03,322 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:03,322 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:03,322 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:03,370 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:05,333 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:05,333 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:05,333 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:05,389 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:07,343 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:07,343 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:07,343 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:07,397 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:09,353 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:09,353 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:09,353 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:09,405 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:11,364 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:11,364 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:11,364 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:11,414 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:13,374 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:13,374 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:13,374 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:13,421 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:15,384 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:15,384 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:15,384 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:15,426 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:17,395 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:17,395 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:17,395 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:17,426 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:19,406 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:19,406 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:19,406 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:19,445 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:21,416 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:21,416 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:21,416 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:21,454 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:23,426 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:23,426 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:23,426 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:23,461 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:25,437 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:25,437 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:25,437 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:25,470 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:27,447 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:27,447 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:27,447 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:27,477 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:29,459 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:29,459 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:29,459 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:29,497 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:31,468 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:31,468 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:31,468 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:31,538 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:33,478 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:33,478 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:33,478 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:33,579 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:35,488 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:35,488 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:35,488 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:35,521 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:37,499 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:37,499 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:37,499 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:37,551 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:39,510 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:39,510 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:39,510 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:39,560 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:41,520 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:41,520 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:41,520 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:41,567 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:43,530 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:43,531 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:43,531 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:43,586 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:45,540 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:45,540 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:45,540 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:45,572 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:47,552 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:47,552 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:47,552 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:47,602 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:49,562 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:49,562 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:49,562 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:49,610 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:51,573 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:51,573 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:51,573 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:51,630 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:53,584 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:53,584 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:53,585 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:53,637 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:55,594 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:55,594 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:55,595 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:55,645 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:57,605 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:57,605 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:57,605 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:57,643 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:49:59,616 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:49:59,616 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:49:59,617 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:49:59,651 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:01,624 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:01,625 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:01,625 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:01,659 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:03,635 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:03,635 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:03,635 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:03,666 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:05,646 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:05,647 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:05,647 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:05,685 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:07,660 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:07,660 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:07,660 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:07,694 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:09,666 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:09,667 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:09,667 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:09,702 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:11,677 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:11,677 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:11,677 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:11,710 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:13,687 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:13,687 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:13,687 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:13,718 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:15,697 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:15,698 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:15,698 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:15,737 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:17,708 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:17,708 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:17,708 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:17,811 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:19,719 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:19,719 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:19,719 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:19,794 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:21,729 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:21,729 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:21,729 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:21,783 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:23,739 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:23,739 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:23,739 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:23,791 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:25,750 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:25,750 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:25,750 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:25,807 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:27,760 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:27,760 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:27,760 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:27,819 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:29,903 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:29,903 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:29,903 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:29,948 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:31,781 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:31,781 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:31,782 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:31,835 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:33,792 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:33,792 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:33,792 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:33,839 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:35,802 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:35,802 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:35,802 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:35,851 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:37,812 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:37,812 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:37,813 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:37,867 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:39,826 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:39,826 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:39,826 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:39,878 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:41,833 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:41,833 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:41,833 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:41,886 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:43,844 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:43,844 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:43,844 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:43,901 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:45,854 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:45,854 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:45,854 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:45,910 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:47,865 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:47,865 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:47,865 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:47,917 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:49,876 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:49,876 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:49,876 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:49,925 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:51,886 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:51,886 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:51,886 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:51,934 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:53,897 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:53,897 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:53,898 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:53,963 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:55,907 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:55,907 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:55,907 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:55,950 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:57,917 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:57,918 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:57,918 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:57,958 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:50:59,928 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:50:59,928 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:50:59,928 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:50:59,965 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:01,938 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:01,938 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:01,938 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:01,974 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:03,949 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:03,949 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:03,949 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:03,982 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:05,959 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:05,959 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:05,959 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:05,990 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:07,970 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:07,970 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:07,970 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:08,009 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:09,980 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:09,980 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:09,980 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:10,017 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:11,990 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:11,990 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:11,990 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:12,026 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:14,002 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:14,002 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:14,002 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:14,033 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:16,015 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:16,015 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:16,016 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:16,053 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:18,022 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:18,022 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:18,022 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:18,060 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:20,032 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:20,032 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:20,032 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:20,102 - Mainserverlog -log.py[line:26]-INFO -data insert ok!
+2017-06-03 07:51:22,043 - Mainserverlog -log.py[line:26]-INFO -command_id:
+2017-06-03 07:51:22,043 - Mainserverlog -log.py[line:26]-INFO -1
+2017-06-03 07:51:22,043 - Mainserverlog -log.py[line:26]-INFO -rdata:2;1.062
+2017-06-03 07:51:22,080 - Mainserverlog -log.py[line:26]-INFO -data insert ok!

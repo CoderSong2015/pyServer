@@ -53,7 +53,8 @@ class TSClntProtocol(protocol.Protocol):
                    rdata =round(data,3)
                    print(rdata)
 
-                   da = self.p.addHeader(str(rdata),1)
+                   senda = '2;'+str(rdata)
+                   da = self.p.addHeader(senda,1)
 
                    #self.transport.write(da)
                    self.transport.getHandle().sendall(da)
